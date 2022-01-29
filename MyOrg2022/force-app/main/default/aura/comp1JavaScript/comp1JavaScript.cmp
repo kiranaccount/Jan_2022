@@ -1,0 +1,12 @@
+<aura:component >
+    <aura:attribute name = "setMeOnInit" type="string" default="default value"/>     
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    <aura:attribute name = "distructingArg" type = "string" default = "default value"/>
+    <aura:handler name="init" value="{!this}" action="{!c.dailypartices}"/>
+    <aura:handler name="init" value="{!this}" action="{!c.distructingArg}"/>
+    
+    <p>This value is set in the controller after the component initializes and before rendering.</p>
+    <p><b>{!v.setMeOnInit}</b></p>
+    <p><b>{!v.distructingArg}</b></p>
+    
+</aura:component>

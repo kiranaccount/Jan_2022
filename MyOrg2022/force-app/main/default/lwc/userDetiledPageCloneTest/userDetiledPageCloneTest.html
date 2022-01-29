@@ -1,0 +1,106 @@
+<template>
+    <lightning-card>
+        <div class="slds-p-around_small">      
+        <lightning-tabset>
+            <lightning-tab label="Details">                     
+                    <lightning-messages></lightning-messages> 
+                    <lightning-accordion allow-multiple-sections-open 
+                    class="label slds-truncate slds-p-around_xx-small slds-theme_shade"
+                    onsectiontoggle={handleSectionToggle}
+                    active-section-name={activeSections}>
+                        <lightning-accordion-section class="slds-button slds-section__title-action" name="A" label="Accordion Title A">
+                        </lightning-accordion-section>
+                    </lightning-accordion>
+                 <template if:true = {show}>
+                        <lightning-card >
+                            <lightning-record-form
+                            record-id={recordId}
+                            object-api-name={objectApiName}
+                            fields={fields}
+                            columns="2"
+                            mode="readonly"
+                            onsubmit={handleSubmit}
+                            class="full forcePageBlock forceRecordLayout"
+                            >
+                          </lightning-record-form>
+
+       <p></p>
+
+
+                            <div class="slds-p-horizontal_small">
+                                <!-- Replace the record-id with your own -->
+                                <lightning-record-edit-form record-id="0030o000037GaNVAA0"
+                                                          object-api-name="Contact"
+                                                          density="auto">
+                                    <lightning-messages></lightning-messages>
+                                    <!-- <lightning-input-field field-name="FirstName"></lightning-input-field>
+                                    <lightning-input-field field-name="LastName"></lightning-input-field>
+                                    <lightning-input-field field-name="Email"></lightning-input-field>
+                                    <lightning-input-field field-name="Phone"></lightning-input-field> -->
+                                    
+                                    <div class="slds-form-element">
+                                        <div class="slds-form-element__control">
+                                            <div class="slds-grid slds-wrap slds-gutters">
+            
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="FirstName"></lightning-input-field>                                         
+                                                </div>
+            
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="LastName"></lightning-input-field>
+                                                </div>
+            
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="Email"></lightning-input-field>
+                                                </div>
+            
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="Phone"></lightning-input-field>
+                                                </div>
+            
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="Phone"></lightning-input-field>
+                                                </div>
+            
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="Phone"></lightning-input-field>
+                                                </div>
+            
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="Phone"></lightning-input-field>
+                                                </div>
+            
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="Phone"></lightning-input-field>
+                                                </div>
+                                                
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="Phone"></lightning-input-field>
+                                                </div>
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-output-field field-name="Operator_Phone_City_Code__c">
+                                                    </lightning-output-field>
+                                                </div>
+                                               
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="Phone"></lightning-input-field>
+                                                </div>
+                                                <div class="slds-col slds-size_1-of-2">
+                                                    <lightning-input-field field-name="Phone"></lightning-input-field>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+
+                                </lightning-record-edit-form>
+                            </div>  
+
+                        </lightning-card> 
+                    </template>
+            </lightning-tab>
+            <lightning-tab label="Related">
+            </lightning-tab>
+        </lightning-tabset>
+        </div>
+    </lightning-card>
+</template>

@@ -1,0 +1,27 @@
+<apex:page Controller="VisionController" >
+      <apex:form >
+      <apex:pageBlock >
+      <!--<apex:image url="https://einstein.ai/images/generalimage.jpg">
+        <apex:image url="http://r.ddmcdn.com/w_830/s_f/o_1/cx_98/cy_0/cw_640/ch_360/APL/uploads/2015/07/cecil-AP463227356214-1000x400.jpg">
+          <apex:image url="https://www.roehampton.ac.uk/globalassets/images/academic-departments/life-sciences/campaign-images/chameleon.jpg">
+              <apex:image url="https://www.roehampton.ac.uk/globalassets/images/academic-departments/life-sciences/campaign-images/chameleon.jpg">-->
+              <apex:image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Pregnancy_ultrasound_110322105347_1056300.jpg">
+          
+      </apex:image>
+      <br/>
+      <apex:repeat value="{!AccessToken}" var="accessToken">
+          Access Token:<apex:outputText value="{!accessToken}" /><br/>
+    </apex:repeat>
+      <br/>
+      <apex:repeat value="{!callVisionUrl1}" var="prediction">
+          <apex:outputText value="{!prediction.label}" />:<apex:outputText value="{!prediction.probability}" /><br/>
+      </apex:repeat>
+  </apex:pageBlock>
+<!--  <apex:pageBlock > -->
+<!--      <apex:repeat value="{!callVisionContent}" var="prediction"> -->
+<!--          <apex:outputText value="{!prediction.label}" />:<apex:outputText value="{!prediction.probability}" /><br/> -->
+<!--    </apex:repeat> -->
+<!--  </apex:pageBlock> -->
+      
+  </apex:form>
+</apex:page>

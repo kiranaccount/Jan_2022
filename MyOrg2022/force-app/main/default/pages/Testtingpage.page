@@ -1,0 +1,117 @@
+<apex:page docType="html-5.0" applyHtmlTag="false" applyBodyTag="false"
+           showHeader="false" sidebar="false" standardStylesheets="false"
+           title="Unused Title" >
+    <html>
+        <head>
+            <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+            <script type="text/javascript">
+                google.charts.load('current', {packages:["orgchart"]});
+            google.charts.setOnLoadCallback(drawChart);
+            
+            function drawChart() {
+                var data = new google.visualization.DataTable();
+                data.addColumn('string', 'Name');
+                // data.addColumn('string', 'LastName');
+                data.addColumn('string', 'Manager');
+                data.addColumn('string', 'ToolTip');
+                
+                // For each orgchart box, provide the name, manager, and tooltip to show.
+                data.addRows(
+                    [
+                        /*[{'v':'Mike', 'f':'Mike<div style="color:red; font-style:italic">President</div>'},
+                         {}, 'The President'],
+                        [{'v':'Jim', 'f':'Jim<div style="color:red; font-style:italic">Vice President</div>'},
+                         'Mike', 'VP'],
+                        ['Alice', 'Mike', ''],
+                        ['Bob', 'Jim', 'Bob Sponge'],
+                        ['Carol', 'Bob', ''] */  
+                        
+                        [{'v':'Jong', 'f':'Head Of the team<div style="color:red; font-style:italic">AB Family</div><div>rel valus</div>'},
+                         {}, 'G1'],
+                        
+                        [{'v':'vikas', 'f':'vikas<div style="color:red; font-style:italic">Lead</div>'},
+                         'Jong', 'G2 Lead'], 
+                        
+                        [{'v':'hareesh', 'f':'hareesh<div style="color:red; font-style:italic">Lead</div>'},
+                         'Jong', 'G2 Lead'],
+                        
+                        [{'v':'kiran', 'f':'kiran<div style="color:red; font-style:italic">Developer</div>'},
+                         'hareesh', 'G3 Devl'],
+                        
+                        [{'v':'karthik', 'f':'karthik <div style="color:red; font-style:italic">Developer</div>'},
+                         'hareesh', 'G3 Devl'],
+                        
+                        [{'v':'Aaqil', 'f':'Aaqil<div style="color:red; font-style:italic">Developer</div>'},
+                         'hareesh', 'G3 Devl'],
+                        
+                        [{'v':'anand', 'f':'anand<div style="color:red; font-style:italic">L2 Support</div>'},
+                         'karthik', 'G4 L2'],
+                        ['anand1','karthik','kiran'],
+                        ['anand2','vikas','Jong'],
+                        ['anand3','kiran','vikas']
+                        
+                    ]   
+                );
+                data.setRowProperty(4, 'selectedStyle', 'background-color:#00FF00');                
+                // Create the chart.
+                var chart = new google.visualization.OrgChart(document.getElementById('chart_div'));
+                // Draw the chart, setting the allowHtml option to true for the tooltips.
+                chart.draw(data, {'allowHtml':true});
+            }
+            </script>
+        </head>
+        <body>
+            <div id="chart_div"></div>
+            
+            <div>
+                <canvas id="myCanvas" width="300" height="150" style="border:1px solid #d3d3d3;">
+                    Your browser does not support the HTML5 canvas tag.</canvas>
+                
+                <script>
+                var c = document.getElementById("myCanvas");
+                var ctx = c.getContext("2d");
+                ctx.beginPath();
+                ctx.moveTo(100, 9);
+                ctx.lineTo(100, 100);
+                ctx.stroke();
+                </script>
+            </div>
+            
+            
+            <head>
+                <meta charset="utf-8"/>
+                <title>Canvas tutorial</title>
+                <script type="text/javascript">
+                function draw() {
+                    var canvas = document.getElementById('tutorial');
+                    if (canvas.getContext) {
+                        var ctx = canvas.getContext('2d');
+                        //ctx.fillRect(25, 25, 100, 100);
+                        //ctx.clearRect(45, 45, 60, 60);
+                        //ctx.fillStyle = 'green';
+                       
+                        ctx.strokeRect(50, 50, 100,40);
+                        
+                        ctx.beginPath();
+                        ctx.moveTo(75, 50);
+                        ctx.lineTo(100, 75);
+                        ctx.lineTo(10, 10);
+                        ctx.fill();
+                         ctx.strokeText("Hello world", 0, 100);
+                        
+                    }
+                }
+                </script>
+                <!-- <style type="text/css">
+canvas { border: 1px solid black; }
+</style>-->
+            </head>
+            <body onload="draw();">
+                <canvas id="tutorial" width="150" height="150"></canvas>
+            </body>
+        </body>
+        
+        
+    </html>
+    
+</apex:page>

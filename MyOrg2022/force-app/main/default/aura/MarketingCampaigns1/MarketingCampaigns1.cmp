@@ -1,0 +1,7 @@
+<aura:component implements="force:appHostable,flexipage:availableForRecordHome,force:hasRecordId,force:lightningQuickAction" access="global" >
+    <ui:scrollerWrapper class="scrollerSize">
+        <div class="innerDivWrapper">
+           
+        </div>
+    </ui:scrollerWrapper>
+</aura:component>

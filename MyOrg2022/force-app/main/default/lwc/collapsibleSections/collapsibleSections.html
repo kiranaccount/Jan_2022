@@ -1,0 +1,11 @@
+<template>
+    <lightning-accordion-section
+        name={name}
+        label="General"
+        class="title">   
+    </lightning-accordion-section>
+    <template if:true = {show}>
+        <slot name="section"></slot>
+    </template>
+    <slot name="section"></slot>
+</template>

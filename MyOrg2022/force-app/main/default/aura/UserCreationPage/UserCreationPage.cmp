@@ -1,0 +1,18 @@
+<aura:component implements="force:hasRecordId,flexipage:availableForAllPageTypes,force:lightningQuickAction,force:appHostable,forceCommunity:availableForAllPageTypes,flexipage:availableForRecordHome" access="global" >
+    <aura:attribute name="width" type="String" description=" width of parent region"/>
+    <lightning:flexipageRegionInfo width="{!v.width}"/>
+    <aura:handler name="init" value="{!this}" action="{!c.myAction}"/>
+    <div id="MyCustomComponent" class="{! v.width}">        
+        <div class="row">
+            <h2 class="header">Profile</h2>
+            <lightning:input type="Text" name="input1" placeholder="First Name" />
+            <lightning:input type="Text" name="input2" placeholder="Surname" />
+            <lightning:input type="Text" name="input3" placeholder="Email" />
+            <lightning:input type="Text" name="input4" placeholder="School/CompanyName" />
+            <lightning:input type="Text" name="input5" placeholder="County"/>
+        </div>
+        <div></div>
+    </div>
+    <button class="slds-button slds-button_brand">Brand Button</button>
+     <lightning:button label="Get Label" onclick="{!c.myaction2}"/>
+</aura:component>

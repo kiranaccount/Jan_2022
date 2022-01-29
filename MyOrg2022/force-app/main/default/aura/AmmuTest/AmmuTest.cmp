@@ -1,0 +1,43 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    
+    
+    <ltng:require scripts="{!$Resource.GoogleOrgloader}" 
+              afterScriptsLoaded="{!c.setup}"/>
+<!--<canvas aura:id="chart_div" id="chart_div" width="400" height="400"/>-->
+    <html>
+        <head>
+            <body>
+                <canvas aura:id="chart_div" id="chart_div" width="400" height="400"/>
+            </body>            
+        </head>        
+    </html>
+   
+    
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    
+    <div>Hi ammu i am from dev</div>
+    <aura:attribute name="subject" type="String" access="global"/>
+     <aura:attribute name="greeting" type="String" access="global"/>
+    
+    {!v.greeting}  <br/>
+    {!v.subject}  <br/>
+    
+   
+    <div class="white">
+Hello, HTML!
+</div>
+<h2>Check out the style in this list.</h2>
+    <ul>
+        <li class="red">I'm red.</li>
+        <li class="blue">I'm blue.</li>
+        <li class="green">I'm green.</li>
+    </ul>
+    <lightning:buttonGroup>
+        <lightning:button label="Refresh" />
+        <lightning:button label="Edit" />
+        <lightning:button label="Save" />
+    </lightning:buttonGroup>
+</aura:component>

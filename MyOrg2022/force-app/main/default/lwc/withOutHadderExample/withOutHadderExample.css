@@ -1,0 +1,38 @@
+rect
+{
+    fill:white;
+    stroke:silver;
+    width:180px;
+    height:40px;			
+    stroke-width:2;
+    
+} 
+path
+{
+    fill:none;
+    stroke:silver;
+    stroke-width:1;
+}
+text
+{
+    dominant-baseline:middle;
+    text-anchor:middle;
+    
+}
+.bigger
+{
+    font-size: 10px;
+}        
+.hide
+{
+    visibility: hidden;
+}
+svg
+{
+ background: green;
+}
+line
+{
+    stroke:red;
+    fill:none;
+}
