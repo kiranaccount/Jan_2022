@@ -3,7 +3,7 @@
  * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
  * @group             : 
  * @last modified on  : 02-20-2023
- * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @last modified by  : kiran Naik Gugulothu 
 **/
     trigger AccountAddressTrigger on Account (before insert, after update) {
 
@@ -22,6 +22,6 @@
         system.debug('values==>'+a1.Contacts.size());  
         ac.add(a1);    
     }
-    update ac;    
+    update ac;  
 
     }
