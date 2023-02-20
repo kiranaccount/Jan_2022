@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>kirannaikgugulothu@gmail.com</contactEmail>
+    <description>The Developer Hub lets you view, create and manage scratch orgs and namespace registries from one location.</description>
+    <iconUrl>https://kiranmphasis-dev-ed.my.salesforce.com/environmenthub/images/connected_app_logo.png</iconUrl>
+    <label>SalesforceDX Namespace Registry</label>
+    <logoUrl>https://kiranmphasis-dev-ed.my.salesforce.com/environmenthub/images/connected_app_logo.png</logoUrl>
+    <oauthConfig>
+        <callbackUrl>https://kiranmphasis-dev-ed.my.salesforce.com/environmenthub/soma-callback.apexp</callbackUrl>
+        <consumerKey>3MVG9pe2TCoA1Pf4WrcSgP9MN6Wz1xa87hazvcJVTL1.39IYgczsD9liKELSHS0VEp_jpkJ3FTA0u8s9s.Hi4</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>Full</scopes>
+        <scopes>Chatter</scopes>
+        <scopes>CustomApplications</scopes>
+        <scopes>RefreshToken</scopes>
+        <scopes>OpenID</scopes>
+        <scopes>CustomPermissions</scopes>
+        <scopes>Wave</scopes>
+        <scopes>Eclair</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+</ConnectedApp>

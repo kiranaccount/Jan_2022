@@ -1,0 +1,80 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" 
+                controller="googleAddressLocator">
+    <aura:attribute name="location" type="string" default="" />
+    <aura:attribute name="predictions" type="List" default="[]" />
+    <!--aura:attribute name="obj" type="GoogleAddress__c" default="{}"/-->
+    <aura:attribute name="street" type="string" default="" />
+    <aura:attribute name="country" type="string" default="" />
+    <aura:attribute name="area" type="string" default="" />
+    <aura:attribute name="city" type="string" default="" />
+    <aura:attribute name="state" type="string" default="" />
+    <aura:attribute name="postalCode" type="string" default="" />
+    
+    <lightning:input label="Search Address" name="Search Address" aura:id="location" value="{!v.location}" onchange="{!c.getCities}" 
+                     placeholder="Search Address" disabled='{!v.isManualAddress}'>{!v.location}</lightning:input>
+    <aura:if isTrue="{!v.predictions.length > 0}">
+        <ul class="city_predictions"><div class="slds-has-inline-listbox">
+            <aura:iteration items="{!v.predictions}" var="prediction">
+                <div class="slds-form-element slds-form-element__control slds-combobox_container">
+                    <ul class="slds-listbox slds-listbox_vertical" role="presentation">
+                        <li role="presentation" class="slds-listbox__item">
+                            <div class="slds-media slds-listbox__option slds-listbox__option_entity slds-media_center" role="option">
+                                <span class="slds-media__figure slds-listbox__option-icon">
+                                    <lightning:icon iconName="utility:checkin" class="slds-icon slds-icon_small" size="small" alternativeText="icon"/>
+                                </span>
+                                <span class="slds-media__body">
+                                    <div class="slds-combobox slds-is-open slds-dropdown-trigger slds-dropdown-trigger_click" aria-expanded="true" aria-haspopup="listbox" role="combobox">
+                                        <span class="slds-listbox__option-text slds-listbox__option-text_entity">
+                                            <a onclick="{!c.getCityDetails}" data-placeid="{!prediction.place_id}">{!prediction.description}</a>
+                                        </span>
+                                    </div>
+                                </span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </aura:iteration>
+            </div>
+        </ul>
+    </aura:if>
+    
+    <lightning:input aura:id="address" 
+                      type="text" 
+                      value="{!v.area}" 
+                      Name="Street" 
+                      label ="Street" 
+                      disabled = "true"
+                      messageWhenValueMissing="Please complete the address information"/>
+    
+    <lightning:input aura:id="suburb"  
+                     type="text" 
+                     value="{!v.city}" 
+                     name="City" 
+                     label="City"
+                     disabled = "true"
+                     messageWhenValueMissing="Please complete the address information"/>
+    
+    <lightning:input aura:id="state"
+                     type="text" 
+                     value="{!v.state}" 
+                     Name="State" 
+                     label ="State"
+                     disabled = "true"
+                     messageWhenValueMissing="Please complete the address information"/>
+    
+    <lightning:input aura:id="country" 
+                     type="text"
+                     value="{!v.country}" 
+                     Name="Country" 
+                     label ="Country"
+                     disabled = "true"
+                     messageWhenValueMissing="Please complete the address information"/>
+    
+    <lightning:input aura:id="postcode" 
+                     type="number" 
+                     value="{!v.postalCode}" 
+                     Name="Postal Code" 
+                     label ="Postal Code" 
+                     disabled = "true"
+                     messageWhenValueMissing="Please complete the address information"/>
+</aura:component>

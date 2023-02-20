@@ -3,7 +3,7 @@
 	<apiVersion>51.0</apiVersion>
 	<isExposed>true</isExposed>
 	<targets>
-		<!--<target>lightning__RecordPage</target>
+	 <target>lightning__RecordPage</target>
 		<target>lightning__AppPage</target>
 		<target>lightning__HomePage</target>
 		<target>lightning__Tab</target>
@@ -15,12 +15,12 @@
 		<target>lightningSnapin__PreChat</target>
 		<target>lightningSnapin__ChatHeader</target>
 		<target>lightningCommunity__Page</target>
-		<target>lightningCommunity__Default</target>-->
+		<target>lightningCommunity__Default</target> 
 		<target>lightning__RecordAction</target>
 	</targets>
-	  <targetConfigs>
+	 <!-- <targetConfigs>
    <targetConfig targets="lightning__RecordAction">
      <actionType>Action</actionType>
    </targetConfig>
- </targetConfigs>
+ </targetConfigs>-->
 </LightningComponentBundle>

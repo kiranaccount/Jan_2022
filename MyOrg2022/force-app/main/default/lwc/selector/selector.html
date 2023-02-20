@@ -1,0 +1,13 @@
+<template>
+  <lightning-card title="User Details in LWC" icon-name="action:user">
+            <template if:true={userData.data}>
+                {userData.data.Name}<br/>
+                {userData.data.Title}<br/>
+                {userData.data.Profile.Name}  
+                {name}
+            </template>
+            <template if:true={userData.error}>
+                {userData.error}
+            </template>
+    </lightning-card>
+</template>

@@ -1,0 +1,41 @@
+<!-- pageStateChangeExample.html -->
+<template>
+    <div>
+        <a href={showPanelUrl} onclick={handleShowPanelClick}>Show Panel</a>
+    </div>
+    <div if:true={showPanel}>
+        <h1>This is the panel</h1>
+        <a href={noPanelUrl} onclick={handleNoPanelClick}>Hide Panel</a>
+    </div><br/>
+
+<div aria-label="this the navtab ">
+    <lightning-button variant="brand" label={label} title={label} onclick={navigateNext}></lightning-button>
+</div><br/>
+<div aria-label="this the navtab ">
+    <lightning-button variant="brand" label="navigateToListView" title="navigateToListView" onclick={navigateToListView}></lightning-button>
+</div><br/>
+
+<div aria-label="this the navtab ">
+    <lightning-button variant="brand" label="navigateToNewRecordPage" title="navigateToListView" onclick={navigateToNewRecordPage}></lightning-button>
+</div>
+<br/>
+<div aria-label="this the navtab ">
+    <lightning-button variant="brand" label="navigateToRecordViewPage" title="navigateToRecordViewPage" onclick={navigateToRecordViewPage}></lightning-button>
+</div>
+<br/>
+<div aria-label="this the navtab ">
+    <lightning-button variant="brand" label="navigateToRecordEditPage" title="navigateToRecordEditPage" onclick={navigateToRecordEditPage}></lightning-button>
+</div><br/>
+<div aria-label="this the navtab ">
+    <lightning-button variant="brand" label="navigateToRelatedList" title="navigateToRelatedList" onclick={navigateToRelatedList}></lightning-button>
+</div>
+<br/>
+
+<div aria-label="this the navtab ">
+    <lightning-button variant="brand" label="navigateToWebPage" title="navigateToWebPage" onclick={navigateToWebPage}></lightning-button>
+</div>
+<br/>
+<div aria-label="this the navtab ">
+    <lightning-button variant="brand" label="navigateToTabPage" title="navigateToTabPage" onclick={navigateToTabPage}></lightning-button>
+</div>
+</template>

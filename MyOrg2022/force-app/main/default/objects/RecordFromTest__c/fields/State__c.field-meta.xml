@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>State__c</fullName>
+    <externalId>false</externalId>
+    <label>State</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>TS</fullName>
+                <default>false</default>
+                <label>TS</label>
+            </value>
+            <value>
+                <fullName>KS</fullName>
+                <default>false</default>
+                <label>KS</label>
+            </value>
+            <value>
+                <fullName>KT</fullName>
+                <default>false</default>
+                <label>KT</label>
+            </value>
+            <value>
+                <fullName>AP</fullName>
+                <default>false</default>
+                <label>AP</label>
+            </value>
+            <value>
+                <fullName>By Country</fullName>
+                <default>false</default>
+                <label>By Country</label>
+            </value>
+            <value>
+                <fullName>By State</fullName>
+                <default>false</default>
+                <label>By State</label>
+            </value>
+            <value>
+                <fullName>By DMA</fullName>
+                <default>false</default>
+                <label>By DMA</label>
+            </value>
+            <value>
+                <fullName>By Zip Code</fullName>
+                <default>false</default>
+                <label>By Zip Code</label>
+            </value>
+            <value>
+                <fullName>By Province</fullName>
+                <default>false</default>
+                <label>By Province</label>
+            </value>
+            <value>
+                <fullName>By Postal Code</fullName>
+                <default>false</default>
+                <label>By Postal Code</label>
+            </value>
+            <value>
+                <fullName>Download File Default values</fullName>
+                <default>false</default>
+                <label>Download File Default values</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

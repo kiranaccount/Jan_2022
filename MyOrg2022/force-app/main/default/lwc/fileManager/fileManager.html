@@ -1,0 +1,34 @@
+<template>
+    <lightning-card title="Content Manager">
+        <div class="slds-align_absolute-center">
+        <p class="slds-text-heading_small">Select Files to be deleted.</p>
+        </div>
+         <div >
+            <template if:true={contentList}>
+                 <lightning-datatable
+                         key-field="id"
+                         data={contentList}
+                         columns={columns} 
+                         onrowselection={handleRowSelection}> 
+                 </lightning-datatable>
+            </template>
+            </div>
+            <template if:true={isButtonVisible}>
+            <div class="slds-align_absolute-center">
+
+                <lightning-button variant="brand" label="Delete Files" name="openConfirmation" slot="actions" title="Process Lightning Data Table Data" 
+                    onclick={handleClick}  class="slds-m-left_x-small"></lightning-button>
+            </div>
+          </template>
+    </lightning-card>
+    <c-confirmation-dialog title='Confirmation'
+                           message='This action will delete files from Salesforce as well Recyclebin. Click Yes to Proceed. Click No to cancel.'
+                           confirm-label='Yes'
+                           cancel-label='No'
+                           visible={isDialogVisible}
+                           original-message={originalMessage}
+                           name="confirmModal"
+                           onmodalaction={handleClick}>
+    </c-confirmation-dialog>
+    
+</template>

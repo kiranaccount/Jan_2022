@@ -28,7 +28,9 @@ public class VisionController {
         // Make a prediction using URL to a file
        //return Vision.predictUrl('https://einstein.ai/images/generalimage.jpg',access_token,'GeneralImageClassifier');
         //https://api.einstein.ai/v2/vision/datasets/upload/sync
-       return Vision.predictUrl('https://www.roehampton.ac.uk/globalassets/images/academic-departments/life-sciences/campaign-images/chameleon.jpg',access_token,'GeneralImageClassifier');
+       //return Vision.predictUrl('https://www.roehampton.ac.uk/globalassets/images/academic-departments/life-sciences/campaign-images/chameleon.jpg',access_token,'GeneralImageClassifier');
+        return Vision.predictUrl('https://imageio.forbes.com/specials-images/imageserve/5faad4255239c9448d6c7bcd/Best-Animal-Photos-Contest--Close-Up-Of-baby-monkey/960x0.jpg?fit=bounds&format=jpg&width=960',access_token,'GeneralImageClassifier');
+    
     }
 
     public List<Vision.Prediction> getCallVisionContent() {

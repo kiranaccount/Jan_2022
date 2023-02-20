@@ -48,7 +48,8 @@
                          'karthik', 'G4 L2'],
                         ['anand1','karthik','kiran'],
                         ['anand2','vikas','Jong'],
-                        ['anand3','kiran','vikas']                        
+                        ['anand3','kiran','vikas'],
+                        ['anand3','kiran1','vikas2']
                     ]   
                 );
                 data.setRowProperty(4, 'selectedStyle', 'background-color:#00FF00');                

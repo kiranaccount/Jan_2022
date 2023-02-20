@@ -3,8 +3,7 @@ trigger caseAlert on Case (after update) {
     for(Case cs : Trigger.New)  
     {
         // Instantiating a notification
-        Messaging.PushNotification msg = 
-            new Messaging.PushNotification();
+        Messaging.PushNotification msg = new Messaging.PushNotification();
         
         // Assembling the necessary payload parameters for Apple.
         // Apple params are: 
@@ -35,6 +34,6 @@ trigger caseAlert on Case (after update) {
         
         // Sending the notification to the specified app and users.
         // Here we specify the API name of the connected app.  
-        msg.send('g1k4n3', users);
+       // msg.send('g1k4n3', users);
     }
 }

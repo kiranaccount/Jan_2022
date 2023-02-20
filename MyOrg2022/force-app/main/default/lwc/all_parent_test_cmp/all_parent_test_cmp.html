@@ -1,4 +1,14 @@
+<!--
+  @description       : 
+  @author            : ChangeMeIn@UserSettingsUnder.SFDoc
+  @group             : 
+  @last modified on  : 05-18-2022
+  @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+-->
 <template>
+
+   <c-js-certification-cmp></c-js-certification-cmp>
+
      <article class="slds-card" style="padding:20px"> 
     
     <p style="color:blueviolet;font-size:24px">Custom Reusable Lookup Demo - LWC</p>
@@ -25,14 +35,24 @@
             <c-bool show={computedValue}></c-bool>
         </div>
         <div>
+            <h1>Hover Over the Component to See Me</h1>
             <c-my-component title="Hover Over the Component to See Me"></c-my-component>
         </div>
         <!--<c-paginator></c-paginator>
         <c-event-simple></c-event-simple>
         <c-event-with-data></c-event-with-data> 
         <c-form></c-form>   
-        <c-event-with-data></c-event-with-data> --> 
-        <c-user-Detiled-Page-Clone-Test></c-user-Detiled-Page-Clone-Test>       
+        <c-event-with-data></c-event-with-data>
+        <c-user-Detiled-Page-Clone-Test></c-user-Detiled-Page-Clone-Test>--> 
+        <div>
+            <h1>Navigate to Different Page Types.</h1>
+            <c-page-state-change-example></c-page-state-change-example>
+        </div>
 
+        <div>
+            <h1>Navigate to Different Page Types with defulat values example</h1>
+            <c-nav-to-new-record-with-defaults></c-nav-to-new-record-with-defaults>
+        </div>
+       <c-Carousel-Example></c-Carousel-Example>
     </lightning-card>
 </template>

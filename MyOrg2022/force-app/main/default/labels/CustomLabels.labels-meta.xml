@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>GoogleAPIKeyValue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>GoogleAPIKeyValue</shortDescription>
+        <value>Place your key value here</value>
+    </labels>
+    <labels>
+        <fullName>Optystages</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Optystages</shortDescription>
+        <value>Renewal,NewBusiness,InnerYear</value>
+    </labels>
+    <labels>
+        <fullName>getPlaceDetailsURL</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>getGoogleAddressLocatorPlaceDetailsURL</shortDescription>
+        <value>https://maps.googleapis.com/maps/api/place/details/json?</value>
+    </labels>
+    <labels>
+        <fullName>getPlacesSuggestionsURL</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>getGoogleAddressLocatorPlacesSuggestionsURL</shortDescription>
+        <value>https://maps.googleapis.com/maps/api/place/autocomplete/json?</value>
+    </labels>
+</CustomLabels>

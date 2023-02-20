@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <apiVersion>50.0</apiVersion>
+    <dynamicChoiceSets>
+        <name>Country</name>
+        <dataType>Picklist</dataType>
+        <displayField xsi:nil="true"/>
+        <object xsi:nil="true"/>
+        <picklistField>country__c</picklistField>
+        <picklistObject>RecordFromTest__c</picklistObject>
+    </dynamicChoiceSets>
+    <interviewLabel>AgentFlow1 {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>AgentFlow1</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>CanvasMode</name>
+        <value>
+            <stringValue>FREE_FORM_CANVAS</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>Flow</processType>
+    <screens>
+        <name>Agent_Flow</name>
+        <label>Agent Flow</label>
+        <locationX>277</locationX>
+        <locationY>187</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>false</allowFinish>
+        <allowPause>true</allowPause>
+        <fields>
+            <name>country1</name>
+            <choiceReferences>Country</choiceReferences>
+            <dataType>String</dataType>
+            <fieldText>country</fieldText>
+            <fieldType>DropdownBox</fieldType>
+            <isRequired>true</isRequired>
+        </fields>
+        <showFooter>false</showFooter>
+        <showHeader>false</showHeader>
+    </screens>
+    <start>
+        <locationX>198</locationX>
+        <locationY>39</locationY>
+        <connector>
+            <targetReference>Agent_Flow</targetReference>
+        </connector>
+    </start>
+    <status>Draft</status>
+</Flow>
