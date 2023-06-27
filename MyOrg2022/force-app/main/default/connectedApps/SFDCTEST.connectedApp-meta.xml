@@ -6,9 +6,6 @@
         <callbackUrl>https://kiranmphasis-dev-ed--c.visualforce.com/apex/CallBackTestUrl</callbackUrl>
         <consumerKey>3MVG9pe2TCoA1Pf4WrcSgP9MN6doVK9WX6VWaNt1AqsIoU_DbVosNRndi1nAYW_94_ND3OHLoRvqKziJoOhtB</consumerKey>
         <isAdminApproved>true</isAdminApproved>
-        <isClientCredentialEnabled>false</isClientCredentialEnabled>
-        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
-        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
         <isConsumerSecretOptional>false</isConsumerSecretOptional>
         <isIntrospectAllTokens>false</isIntrospectAllTokens>
         <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>

@@ -9,9 +9,6 @@
         <callbackUrl>https://kiranmphasis-dev-ed.my.salesforce.com/environmenthub/soma-callback.apexp</callbackUrl>
         <consumerKey>3MVG9pe2TCoA1Pf4WrcSgP9MN6Wz1xa87hazvcJVTL1.39IYgczsD9liKELSHS0VEp_jpkJ3FTA0u8s9s.Hi4</consumerKey>
         <isAdminApproved>false</isAdminApproved>
-        <isClientCredentialEnabled>false</isClientCredentialEnabled>
-        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
-        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
         <isConsumerSecretOptional>false</isConsumerSecretOptional>
         <isIntrospectAllTokens>false</isIntrospectAllTokens>
         <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>

@@ -3,12 +3,8 @@
     <doesAllowEditSaForCrew>false</doesAllowEditSaForCrew>
     <doesShareSaParentWoWithAr>false</doesShareSaParentWoWithAr>
     <doesShareSaWithAr>true</doesShareSaWithAr>
-    <enableBatchWindow>false</enableBatchWindow>
-    <enableFloatingWorkOrder>false</enableFloatingWorkOrder>
-    <enablePopulateWorkOrderAddress>false</enablePopulateWorkOrderAddress>
     <enableWorkOrders>false</enableWorkOrders>
     <enableWorkPlansAutoGeneration>false</enableWorkPlansAutoGeneration>
-    <enableWorkStepManualStatusUpdate>false</enableWorkStepManualStatusUpdate>
     <fieldServiceNotificationsOrgPref>true</fieldServiceNotificationsOrgPref>
     <fieldServiceOrgPref>true</fieldServiceOrgPref>
     <isGeoCodeSyncEnabled>false</isGeoCodeSyncEnabled>

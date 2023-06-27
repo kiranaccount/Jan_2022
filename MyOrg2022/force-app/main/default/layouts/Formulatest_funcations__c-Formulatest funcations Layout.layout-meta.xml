@@ -14,6 +14,10 @@
                 <behavior>Readonly</behavior>
                 <field>LastModifedDays__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>CurrencyIsoCode</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

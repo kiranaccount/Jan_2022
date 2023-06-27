@@ -29,7 +29,8 @@ public class VisionController {
        //return Vision.predictUrl('https://einstein.ai/images/generalimage.jpg',access_token,'GeneralImageClassifier');
         //https://api.einstein.ai/v2/vision/datasets/upload/sync
        //return Vision.predictUrl('https://www.roehampton.ac.uk/globalassets/images/academic-departments/life-sciences/campaign-images/chameleon.jpg',access_token,'GeneralImageClassifier');
-        return Vision.predictUrl('https://imageio.forbes.com/specials-images/imageserve/5faad4255239c9448d6c7bcd/Best-Animal-Photos-Contest--Close-Up-Of-baby-monkey/960x0.jpg?fit=bounds&format=jpg&width=960',access_token,'GeneralImageClassifier');
+       // return Vision.predictUrl('https://imageio.forbes.com/specials-images/imageserve/5faad4255239c9448d6c7bcd/Best-Animal-Photos-Contest--Close-Up-Of-baby-monkey/960x0.jpg?fit=bounds&format=jpg&width=960',access_token,'GeneralImageClassifier');
+     return Vision.predictUrl('https://media.licdn.com/dms/image/C4D03AQG1Q92tDmgZlg/profile-displayphoto-shrink_800_800/0/1652271000106?e=1686182400&v=beta&t=pSYLLGKfPukyiJLtHabci5yJZFZdLLje1UQ3rtIcFAQ',access_token,'GeneralImageClassifier');
     
     }
 

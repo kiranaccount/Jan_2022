@@ -182,7 +182,11 @@
     <tabs>standard-Lead</tabs>
     <tabs>RecordFromTest__c</tabs>
     <tabs>Formulatest_funcations__c</tabs>
+    <tabs>ExceptionLog__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>ExceptionLog__c</tab>
+        </mappings>
         <mappings>
             <tab>Formulatest_funcations__c</tab>
         </mappings>

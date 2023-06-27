@@ -36,4 +36,9 @@ trigger caseAlert on Case (after update) {
         // Here we specify the API name of the connected app.  
        // msg.send('g1k4n3', users);
     }
+  if(Trigger.isUpdate && Trigger.isAfter){
+
+    MaintenanceRequestHelper.updateWorkOrders(Trigger.New, Trigger.OldMap);
+
+}     
 }

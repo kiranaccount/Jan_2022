@@ -59,7 +59,6 @@
             <label>condition 2</label>
         </rules>
     </decisions>
-    <environments>Default</environments>
     <interviewLabel>update opportunity  Legacy Business {!$Flow.CurrentDateTime}</interviewLabel>
     <label>Set opportunity  Legacy Business</label>
     <processMetadataValues>

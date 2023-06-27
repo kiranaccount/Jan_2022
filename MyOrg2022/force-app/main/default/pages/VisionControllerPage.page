@@ -3,12 +3,15 @@
   <apex:pageBlock >
       <!--<apex:image url="https://einstein.ai/images/generalimage.jpg">
 <apex:image url="https://www.techgenyz.com/wp-content/uploads/2017/11/artificial-intelligence-software-testing.jpg">
-        <apex:image url="https://einstein.ai/images/generalimage.jpg"> </apex:image>-->
-            
+        <apex:image url="https://einstein.ai/images/generalimage.jpg"> </apex:image>
             <apex:image url="https://imageio.forbes.com/specials-images/imageserve/5faad4255239c9448d6c7bcd/Best-Animal-Photos-Contest--Close-Up-Of-baby-monkey/960x0.jpg?fit=bounds&format=jpg&width=960"/>   
   
-          
-     
+
+-->
+            
+            <apex:image url="https://media.licdn.com/dms/image/C4D03AQG1Q92tDmgZlg/profile-displayphoto-shrink_800_800/0/1652271000106?e=1686182400&v=beta&t=pSYLLGKfPukyiJLtHabci5yJZFZdLLje1UQ3rtIcFAQ"/>   
+  
+      
       <br/>
       <apex:repeat value="{!AccessToken}" var="accessToken">
           Access Token:<apex:outputText value="{!accessToken}" /><br/>

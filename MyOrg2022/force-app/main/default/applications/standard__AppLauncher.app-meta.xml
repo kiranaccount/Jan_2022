@@ -8,4 +8,5 @@
     <tabs>standard-AppLauncher</tabs>
     <tabs>RecordFromTest__c</tabs>
     <tabs>Formulatest_funcations__c</tabs>
+    <tabs>ExceptionLog__c</tabs>
 </CustomApplication>

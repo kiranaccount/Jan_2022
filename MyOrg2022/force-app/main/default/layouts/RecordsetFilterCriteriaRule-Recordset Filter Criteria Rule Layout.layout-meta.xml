@@ -31,6 +31,14 @@
                 <field>Index</field>
             </layoutItems>
             <layoutItems>
+                <behavior>Edit</behavior>
+                <field>UsageRateField</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>UsageRateUnit</field>
+            </layoutItems>
+            <layoutItems>
                 <behavior>Readonly</behavior>
                 <field>RecordsetFilterCriteriaRuleNumber</field>
             </layoutItems>
@@ -99,6 +107,8 @@
         <fields>Frequency</fields>
         <fields>NextOccurrenceField</fields>
         <fields>Index</fields>
+        <fields>UsageRateField</fields>
+        <fields>UsageRateUnit</fields>
     </miniLayout>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>

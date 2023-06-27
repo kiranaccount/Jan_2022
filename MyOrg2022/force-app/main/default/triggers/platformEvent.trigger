@@ -4,8 +4,8 @@ trigger platformEvent on AccountRelatedEvents__e (after insert) {
         Messaging.SingleEmailMessage message = new Messaging.SingleEmailMessage();
         // Set recipients to two contact IDs.
         // Replace IDs with valid record IDs in your org.
-        message.toAddresses = new String[] { 'hareesh.gv@gmail.com','kirangugulothu@hotmail.com','kiran.gugulothu@mphasis.com' };
-        message.optOutPolicy = 'FILTER';
+        message.toAddresses = new String[] {'kirangugulothu@gmail.com','kiran.gugulothu@mphasis.com' };
+            message.optOutPolicy = 'FILTER';
         message.subject = 'Salesforce ReplayId :'+ caseitem.ReplayId;
         message.plainTextBody = 'This is the message body.'+caseitem.Name__c;
         Messaging.SingleEmailMessage[] messages = 
@@ -17,9 +17,6 @@ trigger platformEvent on AccountRelatedEvents__e (after insert) {
             System.debug('The email failed to send: '
                          + results[0].errors[0].message);
         }
-        
-        
-        
     } 
     
 }

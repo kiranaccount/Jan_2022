@@ -1,7 +1,7 @@
 import { LightningElement, wire } from 'lwc';
 import { getObjectInfo } from 'lightning/uiObjectInfoApi';
 import ACTIVITY_OBJECT from '@salesforce/schema/Task';
-import fieldss from '@salesforce/schema/task.FSL__Count_of_Events__c';
+import fieldss from '@salesforce/schema/Task.FSL__Count_of_Events__c';
 
 export default class ActivityLayout extends LightningElement {
     activityFields = [fieldss];
