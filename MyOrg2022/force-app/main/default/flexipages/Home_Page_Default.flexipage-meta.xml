@@ -79,6 +79,12 @@
                 <identifier>home_assistant</identifier>
             </componentInstance>
         </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>libraryRecordBasedOnID</componentName>
+                <identifier>c_libraryRecordBasedOnID</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>right</name>
         <type>Region</type>
     </flexiPageRegions>

@@ -258,6 +258,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>GetLiberay</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>HttpFormBuilder</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -541,6 +545,10 @@
     </flowAccesses>
     <flowAccesses>
         <enabled>false</enabled>
+        <flow>AccountToContactUdate</flow>
+    </flowAccesses>
+    <flowAccesses>
+        <enabled>false</enabled>
         <flow>Account_Related_case_update</flow>
     </flowAccesses>
     <flowAccesses>
@@ -566,6 +574,10 @@
     <flowAccesses>
         <enabled>false</enabled>
         <flow>Onboarding</flow>
+    </flowAccesses>
+    <flowAccesses>
+        <enabled>false</enabled>
+        <flow>PaltformEventFireFlow</flow>
     </flowAccesses>
     <flowAccesses>
         <enabled>false</enabled>

@@ -10,6 +10,7 @@ trigger PlatformEventException on Exception__e (after insert) {
         finalist.add(elog);
     }
     if(finalist.size()>0){
+        system.debug('finalist--'+finalist);
        insert finalist;
     }
 }
