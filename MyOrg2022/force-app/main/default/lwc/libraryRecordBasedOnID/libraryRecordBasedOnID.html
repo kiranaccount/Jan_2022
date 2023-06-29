@@ -1,0 +1,20 @@
+<!--
+  @description       : 
+  @author            : kiran Naik Gugulothu 
+  @group             : 
+  @last modified on  : 06-29-2023
+  @last modified by  : kiran Naik Gugulothu 
+   <lightning-button label="Load Contacts" onclick={handleSearch}></lightning-button>
+-->
+<template>
+   
+   <lightning-card title="Libaray related files Records">   
+    <lightning-datatable
+        key-field="id"
+        data={libraryRecords}
+        columns={columns}
+        hide-checkbox-column="true"
+        onrowaction={navigateToFiles}>             
+         </lightning-datatable>
+   </lightning-card>
+</template>
