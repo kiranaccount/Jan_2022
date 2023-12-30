@@ -189,6 +189,9 @@
         <relatedList>RelatedFileList</relatedList>
     </relatedLists>
     <relatedLists>
+        <relatedList>RelatedContentNoteList</relatedList>
+    </relatedLists>
+    <relatedLists>
         <relatedList>RelatedEntityHistoryList</relatedList>
     </relatedLists>
     <relatedLists>
@@ -202,6 +205,12 @@
     <relatedLists>
         <fields>ServiceResource</fields>
         <relatedList>AssignedResources</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>WorkCapacityUsage</fields>
+        <fields>EstimatedUsageInMinutes</fields>
+        <fields>UsageDate</fields>
+        <relatedList>ServiceAppointmentCapacityUsages</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>Name</fields>

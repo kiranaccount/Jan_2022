@@ -2,99 +2,79 @@ import { LightningElement,api, wire } from 'lwc';
 import getrecord from '@salesforce/apex/GetLiberay.getLiberyItems';
 import { NavigationMixin } from 'lightning/navigation';
 
-const columns = [    
-  {
+const actions = [  
+  { label: 'Preview', name: 'Preview' }
+];
+const columns = [     
+          {
             label: 'Title',
             fieldName: 'accountIdForURL',
             type: 'url',
             typeAttributes: {label: { fieldName: 'Title' }, 
             target: '_blank'}
-                   },
-                    {
-            label: 'VersionDataURL',
-            fieldName: 'Title',
-            type: 'url',
-            typeAttributes: {label: { fieldName: 'VersionDataURL' }, 
-            target: '_self'}
-                   },
-    
-
-    { label: 'FileType', fieldName: 'FileType', type: 'string'},
-   // { label: 'Title', fieldName: 'Title',type: 'string' },
-    { label: 'Description', fieldName: 'Description', type: 'textarea', wrapText: true},  
-   
-  
+          },
+                 
+          {
+            label: "Last modified date",
+            fieldName: "LastModifiedDate",
+            type: "date",
+            typeAttributes:{
+                year: "numeric",
+                month: "long",
+                day: "2-digit",
+                hour: "2-digit",
+                minute: "2-digit"
+            }
+          },
+          { type: 'action', typeAttributes: { rowActions: actions, menuAlignment: 'left' } } 
+             
 ];
 
-export default class LibraryRecordBasedOnID extends LightningElement {
+export default class LibraryRecordBasedOnID extends NavigationMixin(LightningElement) {
  columns = columns; 
-@api recordId='0580o000001AEQkAAO';
-searchKey ='0580o000001AEQkAAO'
+@api recordId;
 libraryRecords=[];
 
 @wire(getrecord, {contectid:'0580o000001AEQkAAO'})
 wiredRecord({error,data}){
  if(data){ 
-  
-   //this.libraryRecords =data;
-
    let accountContractArray = [];
    //add each row data in array using for loop
-   data.forEach(accountContract => {    
-       let accountContractRow = {};
-       accountContractRow.Title = accountContract.Title;
-       accountContractRow.ContentDocumentId = accountContract.ContentDocumentId;
-       accountContractRow.FileType = accountContract.FileType;
-       accountContractRow.Description = accountContract.Description;
-       accountContractRow.VersionDataURL = accountContract.VersionDataURL;
-
-       //accountContractRow.accountIdForURL =  accountContract.Id; 
-
-       accountContractRow.accountIdForURL = '/' + accountContract.Id;  //This field will be used for navigation to the account
-       //You can add rest of the fields in similar way.
-       //push row into array
-      // alert(JSON.stringify('11111---->'+accountContractArray));
-       accountContractArray.push(accountContractRow);
+   data.forEach(contentList => {    
+       let contentDocsRows = {};
+       contentDocsRows.Title = contentList.Title;
+       contentDocsRows.ContentDocumentId = contentList.ContentDocumentId;
+       contentDocsRows.FileType = contentList.FileType;
+       contentDocsRows.Description = contentList.Description;
+       contentDocsRows.VersionDataURL = contentList.VersionDataURL;   
+       contentDocsRows.LastModifiedDate = contentList.LastModifiedDate; 
+       contentDocsRows.accountIdForURL = '/' + contentList.Id;
+       accountContractArray.push(contentDocsRows);
        
    });
-   //alert(JSON.stringify('22222---->'+accountContractArray));
    //assign the array to variable which will store data to be shown in the datatable
    this.libraryRecords = accountContractArray;
-
-   alert(JSON.stringify(this.libraryRecords));
-
  }else if(error){
     console.error(error);
  }
 }
 
-/*
-
-viewPdf(event) {
-  this[NavigationMixin.Navigate]({
-    type: 'standard__namedPage',
-    attributes: {
-        pageName: 'filePreview'
-    },
-    state : {
-        recordIds: '069xx0000000001AAA'  
-    }
-  });
+handleRowAction(event) {
+  const action = event.detail.action;
+  const row = event.detail.row;
+  switch (action.name) {      
+      case 'Preview':        
+        var currentid = JSON.stringify(row.ContentDocumentId);
+        this[NavigationMixin.Navigate]({
+          type: 'standard__namedPage',
+          attributes: {
+              pageName: 'filePreview'
+          },
+          state : {
+              recordIds: currentid,
+              selectedRecordId:currentid  
+          }
+        });
+          break;
 }
-*/
-
-navigateToFiles(event) {
-  this.record = event.detail.row;
-  alert(JSON.stringify('22222---->'+this.record.id));
-  this[NavigationMixin.Navigate]({
-    type: 'standard__namedPage',
-    attributes: {
-        pageName: 'filePreview'
-    },
-    state : {
-        recordIds: this.record.id,
-        //selectedRecordId:'069xx0000000001AAA'
-    }
-  })
-}
-}
+}}

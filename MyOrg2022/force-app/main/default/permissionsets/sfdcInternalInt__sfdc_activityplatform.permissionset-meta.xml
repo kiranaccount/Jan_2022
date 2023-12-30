@@ -4,4 +4,8 @@
     <hasActivationRequired>true</hasActivationRequired>
     <label>sfdc.activityplatform</label>
     <license>Cloud Integration User</license>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>SalesforceIQInternal</name>
+    </userPermissions>
 </PermissionSet>

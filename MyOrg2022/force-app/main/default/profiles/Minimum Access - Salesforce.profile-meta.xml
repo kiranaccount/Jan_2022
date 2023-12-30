@@ -230,6 +230,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>DataGenerationTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>EinsteinExample1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -378,6 +382,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>TestFactory</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>TestRestrictContactByName</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -403,6 +411,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>checkRecursive</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>contactHandler</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -462,6 +474,26 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Country_Code__mdt.Country_Code__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>CustomMetaDataTest2__mdt.Account__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>CustomMetaDataTest2__mdt.Entity_Definition__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>CustomMetaDataTest2__mdt.Field_Definition__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>DiscountPercent__mdt.discount__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -678,6 +710,9 @@
         <layout>CreditMemoLine-Credit Memo Line Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>CustomMetaDataTest2__mdt-CustomMetaDataTest2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Customer-Customer Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -685,6 +720,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>DigitalWallet-Digital Wallet Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>DiscountPercent__mdt-DiscountPercent Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ExceptionLog__c-ExceptionLog Layout</layout>
@@ -831,6 +869,9 @@
         <layout>ServiceAppointment-Service Appointment Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>ServiceAppointmentCapacityUsage-Service Appointment Capacity Usage Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>ServiceCrew-Service Crew Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -876,6 +917,9 @@
         <layout>SkillRequirement-Skill Requirement Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Survey-Survey Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Swarm-Swarm Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -895,6 +939,15 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>WarrantyTerm-Warranty Term Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkCapacityAvailability-Work Capacity Availability Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkCapacityLimit-Work Capacity Limit Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkCapacityUsage-Work Capacity Usage Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>WorkOrder-Work Order Layout</layout>

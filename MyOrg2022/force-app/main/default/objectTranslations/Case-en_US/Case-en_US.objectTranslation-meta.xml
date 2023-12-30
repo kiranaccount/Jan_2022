@@ -8,6 +8,17 @@
         <plural>true</plural>
         <value>MaintenanceRequests</value>
     </caseValues>
+    <layouts>
+        <layout>Case (HowWeRoll) Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>HowWeRoll Service Details</section>
+        </sections>
+    </layouts>
     <quickActions>
         <label></label>
         <name>LogACall</name>

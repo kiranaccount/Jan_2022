@@ -12,13 +12,6 @@
     <tabs>standard-Solution</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>zoom_app__Zoom_Call_Log__c</tabs>
-    <tabs>zoom_app__Zoom_Config</tabs>
-    <tabs>zoom_app__Zoom_Meetings</tabs>
-    <tabs>zoom_app__Zoom_Webinar_Attendee__c</tabs>
-    <tabs>zoom_app__Zoom_Webinar_History__c</tabs>
-    <tabs>zoom_app__Zoom_Webinar_Registrant__c</tabs>
-    <tabs>zoom_app__Zoom_Webinar__c</tabs>
     <tabs>RecordFromTest__c</tabs>
     <tabs>Formulatest_funcations__c</tabs>
     <tabs>ExceptionLog__c</tabs>

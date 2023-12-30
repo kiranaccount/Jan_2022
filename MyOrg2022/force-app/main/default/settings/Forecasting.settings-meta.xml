@@ -236,6 +236,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -254,6 +266,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -293,11 +313,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -458,6 +483,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -476,6 +513,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -515,11 +560,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -684,6 +734,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -702,6 +764,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -742,11 +812,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -907,6 +982,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -925,6 +1012,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -964,11 +1059,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1133,6 +1233,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -1151,6 +1263,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1191,11 +1311,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1356,6 +1481,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -1374,6 +1511,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1413,11 +1558,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1582,6 +1732,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -1600,6 +1762,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1640,11 +1810,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1805,6 +1980,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -1823,6 +2010,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1862,11 +2057,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2031,6 +2231,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -2049,6 +2261,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2089,11 +2309,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2254,6 +2479,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -2272,6 +2509,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2311,11 +2556,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2480,6 +2730,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -2498,6 +2760,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2538,11 +2808,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2703,6 +2978,18 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAj</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVnAo</field>
+            <label>Discount Percent Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0o00000OVlso</field>
+            <label>Discount Rate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0o00000OV66P</field>
             <label>Legacy Business</label>
         </opportunityListFieldsLabelMappings>
@@ -2721,6 +3008,14 @@
         <opportunityListFieldsLabelMappings>
             <field>PARTNER.NAME</field>
             <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <label>Last Stage Change Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
+            <label>Push Count</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2760,11 +3055,16 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N0o00000Kdinp</field>
             <field>00N0o00000Kdinq</field>
+            <field>00N0o00000OVnAj</field>
+            <field>00N0o00000OVnAo</field>
+            <field>00N0o00000OVlso</field>
             <field>00N0o00000OV66P</field>
             <field>00N0o00000Kdinr</field>
             <field>00N0o00000Kdins</field>
             <field>00N0o00000Kdint</field>
             <field>PARTNER.NAME</field>
+            <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
+            <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <globalAdjustmentsSettings>

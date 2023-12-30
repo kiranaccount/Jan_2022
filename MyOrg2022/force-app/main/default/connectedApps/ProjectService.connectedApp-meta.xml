@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>gugulothu.kirannaik@lntinfotech.com</contactEmail>
+    <label>ProjectService</label>
+    <oauthConfig>
+        <callbackUrl>https://sb-integration-pms-2.herokuapp.com/oauth/_callback</callbackUrl>
+        <consumerKey>3MVG9pe2TCoA1Pf4WrcSgP9MN6SYlS68Rn0QSOABoNpyBgEjXDglCJDTMSz0F6vYpZVejgHr6ODutJx7Fwf7d</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+        <scopes>Full</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>BYPASS</ipRelaxation>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+</ConnectedApp>

@@ -1,6 +1,6 @@
 <apex:page docType="html-5.0" applyHtmlTag="false" applyBodyTag="false"
            showHeader="false" sidebar="false" standardStylesheets="false"
-           title="Unused Title" >
+           title="Unused Title" lightningStylesheets="true" >
     <html>
         <head>
             <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>

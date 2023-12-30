@@ -38,7 +38,7 @@ trigger caseAlert on Case (after update) {
     }
   if(Trigger.isUpdate && Trigger.isAfter){
 
-    MaintenanceRequestHelper.updateWorkOrders(Trigger.New, Trigger.OldMap);
+   // MaintenanceRequestHelper.updateWorkOrders(Trigger.New, Trigger.OldMap);
 
 }     
 }

@@ -137,10 +137,6 @@
         <type>ConnectedApp</type>
     </appMenuItems>
     <appMenuItems>
-        <name>Zoom</name>
-        <type>ConnectedApp</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>standard__AllTabSet</name>
         <type>CustomApplication</type>
     </appMenuItems>
@@ -189,7 +185,7 @@
         <type>Network</type>
     </appMenuItems>
     <appMenuItems>
-        <name>How_We_Roll_Maintenance</name>
-        <type>CustomApplication</type>
+        <name>ProjectService</name>
+        <type>ConnectedApp</type>
     </appMenuItems>
 </AppMenu>
