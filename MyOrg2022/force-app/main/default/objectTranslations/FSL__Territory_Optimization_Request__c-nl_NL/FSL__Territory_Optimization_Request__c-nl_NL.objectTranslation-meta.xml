@@ -2,11 +2,11 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value>Verzoek territoriumoptimalisering</value>
+        <value>Verzoek om territoriumoptimalisering</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value>Verzoeken territoriumoptimalisering</value>
+        <value>Verzoeken om territoriumoptimalisering</value>
     </caseValues>
     <gender>Neuter</gender>
     <nameFieldLabel>Nummer van territoriumoptimaliseringsver</nameFieldLabel>

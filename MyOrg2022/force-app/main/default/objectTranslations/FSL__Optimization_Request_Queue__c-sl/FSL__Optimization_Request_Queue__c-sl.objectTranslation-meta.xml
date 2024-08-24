@@ -3,93 +3,63 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Nominative</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Čakalna vrsta zahteve za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Čakalna vrsta zahtev za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Accusative</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Čakalno vrsto zahteve za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Čakalno vrsto zahtev za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Genitive</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Čakalne vrste zahteve za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Čakalne vrste zahtev za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Dative</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Čakalni vrsti zahteve za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Čakalni vrsti zahtev za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Instrumental</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Čakalno vrsto zahteve za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Čakalno vrsto zahtev za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Locative</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Čakalni vrsti zahteve za optimizacijo</value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Čakalni vrsti zahtev za optimizacijo</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Številka vrste za optimizacijo</nameFieldLabel>
 </CustomObjectTranslation>

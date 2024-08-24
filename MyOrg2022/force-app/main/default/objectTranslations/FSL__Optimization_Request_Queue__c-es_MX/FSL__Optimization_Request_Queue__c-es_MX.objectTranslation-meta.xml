@@ -2,12 +2,12 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value>Cola de solicitud de optimización</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value></value>
+        <value>Colas de solicitudes de optimización</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
+    <gender>Masculine</gender>
+    <nameFieldLabel>Número de cola de optimización</nameFieldLabel>
 </CustomObjectTranslation>

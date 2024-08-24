@@ -4,614 +4,614 @@
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-művelet</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletek</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletem</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteim</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-művelete</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletei</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletet</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveleteket</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemet</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimet</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletét</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteit</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletnek</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveleteknek</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemnek</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimnek</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletének</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteinek</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletben</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletekben</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemben</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimben</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletében</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteiben</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletből</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletekből</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemből</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimből</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletéből</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteiből</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletbe</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletekbe</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletembe</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimbe</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletébe</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteibe</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-művelettől</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletektől</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemtől</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimtől</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletétől</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteitől</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-művelethez</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletekhez</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemhez</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimhez</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletéhez</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteihez</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletté</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletekké</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemmé</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimmé</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletévé</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteivé</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-művelettel</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletekkel</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemmel</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimmel</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletével</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteivel</value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletre</value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletekre</value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemre</value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimre</value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletére</value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteire</value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveleten</value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveleteken</value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemen</value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimen</value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletén</value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletein</value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletről</value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletéről</value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemről</value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimről</value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletéről</value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteiről</value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletért</value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletekért</value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemért</value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimért</value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletéért</value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteiért</value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletként</value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletekként</value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemként</value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimként</value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteként</value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteiként</value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletig</value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletekig</value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletemig</value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimig</value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletéig</value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteiig</value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletenként</value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>FSL-műveletek</value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveleteimként</value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>FSL-műveletek</value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveleteiként</value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>FSL-műveletek</value>
     </caseValues>
-    <nameFieldLabel></nameFieldLabel>
-    <startsWith></startsWith>
+    <nameFieldLabel>FSL-művelet neve</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

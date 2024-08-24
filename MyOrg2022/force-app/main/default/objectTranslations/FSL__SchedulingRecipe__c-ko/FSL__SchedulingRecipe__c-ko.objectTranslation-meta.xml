@@ -2,7 +2,7 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value>스케줄링 레시피</value>
     </caseValues>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel>일정 예약 레시피 이름</nameFieldLabel>
 </CustomObjectTranslation>

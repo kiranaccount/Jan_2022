@@ -13,22 +13,22 @@
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Ρύθμιση χρήστη</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Ρυθμίσεις χρήστη</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Ρύθμισης χρήστη</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Ρυθμίσεων χρήστη</value>
     </caseValues>
     <gender>Feminine</gender>
     <nameFieldLabel>Όνομα ρύθμισης χρήστη</nameFieldLabel>

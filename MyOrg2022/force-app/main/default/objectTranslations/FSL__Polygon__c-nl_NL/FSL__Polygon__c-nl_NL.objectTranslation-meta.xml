@@ -2,12 +2,12 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value>Kaartpolygoon</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value></value>
+        <value>Kaartpolygonen</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Naam van polygoon</nameFieldLabel>
 </CustomObjectTranslation>

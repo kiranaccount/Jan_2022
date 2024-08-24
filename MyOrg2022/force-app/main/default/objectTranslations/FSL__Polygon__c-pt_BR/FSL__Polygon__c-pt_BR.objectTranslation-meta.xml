@@ -2,12 +2,12 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value>Polígono do mapa</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value></value>
+        <value>Polígonos do mapa</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
+    <gender>Masculine</gender>
+    <nameFieldLabel>Nome do polígono</nameFieldLabel>
 </CustomObjectTranslation>

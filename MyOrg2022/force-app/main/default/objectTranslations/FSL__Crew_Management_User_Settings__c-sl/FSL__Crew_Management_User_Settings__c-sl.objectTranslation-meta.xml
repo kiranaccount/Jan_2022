@@ -3,93 +3,63 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Nominative</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Uporabniška nastavitev za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Uporabniške nastavitve za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Accusative</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Uporabniško nastavitev za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Uporabniške nastavitve za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Genitive</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Uporabniške nastavitve za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Uporabniških nastavitev za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Dative</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Uporabniški nastavitvi za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Uporabniškim nastavitvam za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Instrumental</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Uporabniško nastavitvijo za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Uporabniško nastavitvijo za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Locative</caseType>
-        <plural>false</plural>
-        <value></value>
+        <value>Uporabniški nastavitvi za upravljanje moštva</value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Uporabniški nastavitvi za upravljanje moštva</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Ime uporabniške nastavitve za upravljanj</nameFieldLabel>
 </CustomObjectTranslation>

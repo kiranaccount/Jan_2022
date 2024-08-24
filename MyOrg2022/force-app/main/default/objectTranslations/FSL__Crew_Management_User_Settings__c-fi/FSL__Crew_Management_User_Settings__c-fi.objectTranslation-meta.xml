@@ -4,397 +4,397 @@
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetus</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukset</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseni</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseni</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksen</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetusten</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseni</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksieni</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksiesi</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksessa</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksissa</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksessani</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksissani</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksessasi</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksissasi</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksesta</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksista</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksestani</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksistani</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksestasi</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksistasi</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseen</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksiin</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseeni</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksiini</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseesi</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksiisi</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksella</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksilla</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksellani</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksillani</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksellasi</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksillasi</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukselta</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukselta</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseltani</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseltani</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseltasi</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseltasi</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukselle</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksille</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukselleni</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksilleni</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksellesi</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksillesi</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksena</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksina</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksenani</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksinani</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksenasi</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksinasi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseksi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksiksi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksekseni</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksikseni</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetukseksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksiksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetusta</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksia</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetustani</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksiani</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetustasi</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Henkilöstönhallinnan käyttäjäasetuksiasi</value>
     </caseValues>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel>Henkilöstön hallinnan käyttäjäasetusten</nameFieldLabel>
 </CustomObjectTranslation>

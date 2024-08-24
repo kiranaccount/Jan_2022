@@ -2,12 +2,12 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value>Optimisation Request Queue</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value></value>
+        <value>Optimisation Requests Queue</value>
     </caseValues>
-    <nameFieldLabel></nameFieldLabel>
-    <startsWith></startsWith>
+    <nameFieldLabel>Optimisation Queue Number</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

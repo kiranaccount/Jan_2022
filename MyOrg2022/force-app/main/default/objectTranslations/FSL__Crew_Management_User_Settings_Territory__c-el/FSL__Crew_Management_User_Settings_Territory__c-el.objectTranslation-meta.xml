@@ -3,34 +3,34 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Ρυθμίσεις χρήστη διαχείρισης προσωπικού - Περιοχή</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Ρυθμίσεις χρήστη διαχείρισης προσωπικού - Περιοχή</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Ρυθμίσεις χρήστη διαχείρισης προσωπικού - Περιοχή</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Ρυθμίσεις χρήστη διαχείρισης προσωπικού - Περιοχή</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Ρυθμίσεων χρήστη διαχείρισης προσωπικού - Περιοχή</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Ρυθμίσεων χρήστη διαχείρισης προσωπικού - Περιοχή</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
-    <startsWith></startsWith>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Όνομα περιοχής ρυθμίσεων χρήστη διαχείρι</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

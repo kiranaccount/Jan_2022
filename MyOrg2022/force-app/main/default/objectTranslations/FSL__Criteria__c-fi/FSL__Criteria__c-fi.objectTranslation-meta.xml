@@ -4,397 +4,397 @@
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehto</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdot</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehtoni</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehtoni</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehtosi</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehtosi</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdon</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehtojen</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehtoni</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehtojeni</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehtosi</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehtojesi</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdossa</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdoissa</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdossani</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdoissani</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdossasi</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdoissasi</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdosta</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdoista</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdostani</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdoistani</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdostasi</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdoistasi</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehtoon</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehtoihin</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehtooni</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehtoihini</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehtoosi</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehtoihisi</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdolla</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdoilla</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdollani</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdoillani</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdollasi</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdoillasi</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdolta</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdoilta</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdoltani</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdoiltani</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdoltasi</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdoiltasi</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdolle</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdoille</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdolleni</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdoilleni</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdollesi</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdoillesi</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehtona</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehtoina</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehtonani</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehtoinani</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehtonasi</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehtoinasi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdoksi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehdoiksi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdokseni</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehdoikseni</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdoksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehdoiksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehtoa</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ehtoja</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehtoani</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ehtojani</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehtoasi</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ehtojasi</value>
     </caseValues>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel>Ehdon nimi</nameFieldLabel>
 </CustomObjectTranslation>

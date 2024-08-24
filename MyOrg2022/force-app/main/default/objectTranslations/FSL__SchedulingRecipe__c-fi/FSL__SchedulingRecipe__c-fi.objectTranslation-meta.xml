@@ -4,397 +4,397 @@
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusresepti</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptit</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptini</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptini</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptisi</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptisi</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptin</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptien</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptini</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptieni</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptisi</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptiesi</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptissä</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusresepteissä</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptissäni</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusresepteissäni</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptissäsi</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusresepteissäsi</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptistä</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusresepteistä</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptistäni</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusresepteistäni</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptistäsi</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusresepteistäsi</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptiin</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusresepteihin</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptiini</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusresepteihini</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptiisi</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusresepteihisi</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptillä</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusresepteillä</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptilläni</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusresepteilläni</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptilläsi</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusresepteilläsi</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptiltä</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusresepteiltä</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptiltäni</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusresepteiltäni</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptiltäsi</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusresepteiltäsi</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptille</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusresepteille</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptilleni</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusresepteilleni</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptillesi</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusresepteillesi</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptinä</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusresepteinä</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptinäni</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusresepteinäni</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptinäsi</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusresepteinäsi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptiksi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusresepteiksi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptikseni</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusresepteikseni</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptiksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusresepteiksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptiä</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Ajoitusreseptejä</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptiäni</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Ajoitusreseptejäni</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptiäsi</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Ajoitusreseptejäsi</value>
     </caseValues>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel>Ajoituksen reseptin nimi</nameFieldLabel>
 </CustomObjectTranslation>

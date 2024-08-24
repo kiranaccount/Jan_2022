@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
+        <article>Definite</article>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>Teritoriuul setare utilizator</value>
+    </caseValues>
+    <caseValues>
         <article>None</article>
         <caseType>Nominative</caseType>
         <plural>false</plural>
@@ -9,8 +15,8 @@
     <caseValues>
         <article>Definite</article>
         <caseType>Nominative</caseType>
-        <plural>false</plural>
-        <value></value>
+        <plural>true</plural>
+        <value>Teritoriile setări utilizator</value>
     </caseValues>
     <caseValues>
         <article>None</article>
@@ -20,31 +26,27 @@
     </caseValues>
     <caseValues>
         <article>Definite</article>
-        <caseType>Nominative</caseType>
-        <plural>true</plural>
-        <value></value>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value>Teritoriului setare utilizator</value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Teritoriului setare utilizator</value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Dative</caseType>
-        <plural>false</plural>
+        <plural>true</plural>
+        <value>Teritoriilor setări utilizator</value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <article>Definite</article>
-        <caseType>Dative</caseType>
-        <plural>true</plural>
+        <value>Teritoriilor setări utilizator</value>
     </caseValues>
     <gender>Neuter</gender>
     <nameFieldLabel>Nume teritoriu setare utilizator</nameFieldLabel>

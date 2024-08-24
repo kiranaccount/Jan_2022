@@ -8,6 +8,6 @@
         <plural>true</plural>
         <value>Кешове на SLR</value>
     </caseValues>
-    <gender>Masculine</gender>
+    <gender>Feminine</gender>
     <nameFieldLabel>SLR кеш номер</nameFieldLabel>
 </CustomObjectTranslation>

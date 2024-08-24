@@ -8,6 +8,6 @@
         <plural>true</plural>
         <value>Данни за оптимизиране</value>
     </caseValues>
-    <gender>Feminine</gender>
+    <gender>Neuter</gender>
     <nameFieldLabel>Номер на данните за оптимизация</nameFieldLabel>
 </CustomObjectTranslation>

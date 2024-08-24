@@ -141,10 +141,6 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__Commerce</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>FSL__FieldService</name>
         <type>CustomApplication</type>
     </appMenuItems>
@@ -187,5 +183,13 @@
     <appMenuItems>
         <name>ProjectService</name>
         <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>App_example</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__FlowsApp</name>
+        <type>CustomApplication</type>
     </appMenuItems>
 </AppMenu>

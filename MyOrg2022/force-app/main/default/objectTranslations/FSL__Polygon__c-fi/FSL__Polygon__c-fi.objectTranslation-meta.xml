@@ -4,397 +4,397 @@
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoni</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygonit</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygonini</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygonini</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygonisi</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygonisi</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygonin</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygonien</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygonini</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygonini</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygonisi</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygonisi</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygonissa</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoneissa</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygonissani</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoneissani</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygonissasi</value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoneissasi</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygonista</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoneista</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygonistani</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoneistani</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygonistasi</value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoneistasi</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoniin</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoneihin</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoniini</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoneihini</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoniisi</value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoneihisi</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygonilla</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoneilla</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygonillani</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoneillani</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygonillasi</value>
     </caseValues>
     <caseValues>
         <caseType>Adessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoneillasi</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygonilta</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoneilta</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoniltani</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoneiltani</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoniltasi</value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoneiltasi</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygonille</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoneille</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygonilleni</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoneilleni</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygonillesi</value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoneillesi</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygonina</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoneina</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoninani</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoneinani</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoninasi</value>
     </caseValues>
     <caseValues>
         <caseType>Essive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoneinasi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoniksi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoneiksi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygonikseni</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoneikseni</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoniksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoneiksesi</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygonia</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value>Karttapolygoneja</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygoniani</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value>Karttapolygonejani</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygoniasi</value>
     </caseValues>
     <caseValues>
         <caseType>Partitive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value>Karttapolygonejasi</value>
     </caseValues>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel>Polygonin nimi</nameFieldLabel>
 </CustomObjectTranslation>

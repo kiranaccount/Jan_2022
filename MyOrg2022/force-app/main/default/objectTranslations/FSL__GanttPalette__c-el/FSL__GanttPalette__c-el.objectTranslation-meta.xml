@@ -3,34 +3,34 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Παλέτα Gantt</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Παλέτες Gantt</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Παλέτα Gantt</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Παλέτες Gantt</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Παλέτας Gantt</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Παλετών Gantt</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
-    <startsWith></startsWith>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Όνομα παλέτας Gantt</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

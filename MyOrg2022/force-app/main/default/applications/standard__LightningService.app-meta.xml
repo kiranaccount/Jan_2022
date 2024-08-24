@@ -33,6 +33,7 @@
     <tabs>RecordFromTest__c</tabs>
     <tabs>Formulatest_funcations__c</tabs>
     <tabs>ExceptionLog__c</tabs>
+    <tabs>Knowledge__kav</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningService_UtilityBar</utilityBar>
     <workspaceConfig>
@@ -41,6 +42,9 @@
         </mappings>
         <mappings>
             <tab>Formulatest_funcations__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Knowledge__kav</tab>
         </mappings>
         <mappings>
             <tab>RecordFromTest__c</tab>

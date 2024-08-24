@@ -3,34 +3,34 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Πολύγωνο χάρτη</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Πολύγωνα χάρτη</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Πολύγωνο χάρτη</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Πολύγωνα χάρτη</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Πολυγώνου χάρτη</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Πολυγώνων χάρτη</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
-    <startsWith></startsWith>
+    <gender>Neuter</gender>
+    <nameFieldLabel>Όνομα πολυγώνου</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

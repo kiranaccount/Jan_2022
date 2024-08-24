@@ -19,6 +19,10 @@
                 <field>SvcApptFieldValDplyNm</field>
             </layoutItems>
             <layoutItems>
+                <behavior>Edit</behavior>
+                <field>CapacityLimitRelaxation</field>
+            </layoutItems>
+            <layoutItems>
                 <behavior>Required</behavior>
                 <field>LimitationUnits</field>
             </layoutItems>
@@ -120,6 +124,7 @@
         <fields>SvcApptField</fields>
         <fields>SvcApptFieldValue</fields>
         <fields>SvcApptFieldValDplyNm</fields>
+        <fields>CapacityLimitRelaxation</fields>
         <fields>LimitationUnits</fields>
         <fields>LimitationValue</fields>
         <fields>IsMonday</fields>

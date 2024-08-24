@@ -3,34 +3,34 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Συνταγή προγραμματισμού</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Συνταγές προγραμματισμού</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Συνταγή προγραμματισμού</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Συνταγές προγραμματισμού</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Συνταγής προγραμματισμού</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Συνταγών προγραμματισμού</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
-    <startsWith></startsWith>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Όνομα συνταγής προγραμματισμού</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

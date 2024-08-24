@@ -13,22 +13,22 @@
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Στόχο πολιτικής προγραμματισμού</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Στόχους πολιτικής προγραμματισμού</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Στόχου πολιτικής προγραμματισμού</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Στόχων πολιτικής προγραμματισμού</value>
     </caseValues>
     <gender>Masculine</gender>
     <nameFieldLabel>Όνομα στόχου πολιτικής προγραμματισμού</nameFieldLabel>

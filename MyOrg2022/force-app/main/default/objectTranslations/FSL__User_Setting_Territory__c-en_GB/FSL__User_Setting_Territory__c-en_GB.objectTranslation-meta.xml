@@ -9,5 +9,5 @@
         <value>User Setting Territories</value>
     </caseValues>
     <nameFieldLabel>User Setting Territory Name</nameFieldLabel>
-    <startsWith>Vowel</startsWith>
+    <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

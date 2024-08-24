@@ -2,7 +2,7 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value>ユーザテリトリー</value>
+        <value>ユーザーテリトリー</value>
     </caseValues>
-    <nameFieldLabel>ユーザテリトリー番号</nameFieldLabel>
+    <nameFieldLabel>ユーザーテリトリー番号</nameFieldLabel>
 </CustomObjectTranslation>

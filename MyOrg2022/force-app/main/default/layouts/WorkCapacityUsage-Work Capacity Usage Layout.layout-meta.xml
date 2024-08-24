@@ -12,10 +12,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>SvcApptFieldValue</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>SvcApptFieldValDplyNm</field>
             </layoutItems>
             <layoutItems>
@@ -29,6 +25,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>TimeConsumedInHours</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>CapacityLimitRelaxation</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
@@ -86,11 +86,11 @@
     </layoutSections>
     <miniLayout>
         <fields>SvcApptField</fields>
-        <fields>SvcApptFieldValue</fields>
         <fields>SvcApptFieldValDplyNm</fields>
         <fields>LimitationValue</fields>
         <fields>TimeConsumedInMinutes</fields>
         <fields>TimeConsumedInHours</fields>
+        <fields>CapacityLimitRelaxation</fields>
     </miniLayout>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>

@@ -2,12 +2,12 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value>Territorium voor gebruikersinstellingen voor ploegenbeheer</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value></value>
+        <value>Territoria voor gebruikersinstellingen voor ploegenbeheer</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
+    <gender>Neuter</gender>
+    <nameFieldLabel>Naam territorium van gebruikersinstellin</nameFieldLabel>
 </CustomObjectTranslation>

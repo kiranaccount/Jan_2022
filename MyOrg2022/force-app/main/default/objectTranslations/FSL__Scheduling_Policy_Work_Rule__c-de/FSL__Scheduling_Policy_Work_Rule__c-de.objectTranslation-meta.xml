@@ -3,42 +3,42 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value>Planungsrichtlinien-Workflow-Regel</value>
+        <value>Planungsrichtlinien-Arbeitsregel</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value>Planungsrichtlinien-Workflow-Regeln</value>
+        <value>Planungsrichtlinien-Arbeitsregeln</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Planungsrichtlinien-Arbeitsregel</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Planungsrichtlinien-Arbeitsregeln</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Planungsrichtlinien-Arbeitsregel</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Planungsrichtlinien-Arbeitsregeln</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Planungsrichtlinien-Arbeitsregel</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Planungsrichtlinien-Arbeitsregeln</value>
     </caseValues>
     <gender>Feminine</gender>
     <nameFieldLabel>Name der Planungsrichtlinien-Arbeitsrege</nameFieldLabel>

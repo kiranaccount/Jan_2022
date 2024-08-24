@@ -3,34 +3,34 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Εξάρτηση ραντεβού</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Εξαρτήσεις ραντεβού</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Εξάρτηση ραντεβού</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Εξαρτήσεις ραντεβού</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Εξάρτησης ραντεβού</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Εξαρτήσεων ραντεβού</value>
     </caseValues>
-    <gender></gender>
-    <nameFieldLabel></nameFieldLabel>
-    <startsWith></startsWith>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Όνομα εξάρτησης ραντεβού</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

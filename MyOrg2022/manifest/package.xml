@@ -32,8 +32,6 @@
         <members>*</members>
         <name>StaticResource</name>
    </types> -->
-
-
     <types>
 		<members>*</members>
 		<name>ActionLinkGroupTemplate</name>

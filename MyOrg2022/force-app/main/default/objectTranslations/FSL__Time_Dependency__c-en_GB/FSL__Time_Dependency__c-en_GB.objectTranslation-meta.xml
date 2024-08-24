@@ -2,12 +2,12 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value>Appointment Dependency</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value></value>
+        <value>Appointment Dependencies</value>
     </caseValues>
-    <nameFieldLabel></nameFieldLabel>
-    <startsWith></startsWith>
+    <nameFieldLabel>Appointment Dependency Name</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

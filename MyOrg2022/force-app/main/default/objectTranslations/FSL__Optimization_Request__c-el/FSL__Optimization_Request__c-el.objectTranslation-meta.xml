@@ -13,22 +13,22 @@
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Αίτημα βελτιστοποίησης</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Αιτήματα βελτιστοποίησης</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Αιτήματος βελτιστοποίησης</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Αιτημάτων βελτιστοποίησης</value>
     </caseValues>
     <gender>Neuter</gender>
     <nameFieldLabel>Αριθμός αιτήματος βελτιστοποίησης</nameFieldLabel>

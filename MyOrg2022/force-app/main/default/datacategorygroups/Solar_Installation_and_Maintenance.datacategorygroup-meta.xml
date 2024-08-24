@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <label>Solar Panels</label>
+            <name>solar_panels</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Inverters</label>
+            <name>inverters</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Charge Controllers</label>
+            <name>charge_controllers</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Batteries</label>
+            <name>batteries</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <label>Solar Installation and Maintenance</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>

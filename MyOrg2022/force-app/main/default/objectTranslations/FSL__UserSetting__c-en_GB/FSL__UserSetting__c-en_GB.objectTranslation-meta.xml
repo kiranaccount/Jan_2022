@@ -9,5 +9,5 @@
         <value>User Settings</value>
     </caseValues>
     <nameFieldLabel>User Setting Name</nameFieldLabel>
-    <startsWith>Vowel</startsWith>
+    <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

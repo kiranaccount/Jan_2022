@@ -8,57 +8,57 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
+        <value>Žádosti o optimalizaci</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
         <value>Žádost o optimalizaci</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
-        <plural>false</plural>
-        <value></value>
-    </caseValues>
-    <caseValues>
-        <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Žádosti o optimalizaci</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Žádosti o optimalizaci</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Žádostí o optimalizaci</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Žádosti o optimalizaci</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Žádostem o optimalizaci</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Žádostí o optimalizaci</value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Žádostmi o optimalizaci</value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value>Žádosti o optimalizaci</value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value>Žádostech o optimalizaci</value>
     </caseValues>
     <gender>Feminine</gender>
     <nameFieldLabel>Číslo žádosti o optimalizaci</nameFieldLabel>
