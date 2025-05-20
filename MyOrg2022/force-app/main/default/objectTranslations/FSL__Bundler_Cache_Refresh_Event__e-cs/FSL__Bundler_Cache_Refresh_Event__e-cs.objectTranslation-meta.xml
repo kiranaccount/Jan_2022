@@ -3,62 +3,62 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Událost obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Události obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Událost obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Události obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Události obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Událostí obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Události obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Událostem obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Událostí obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Událostmi obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Události obnovy mezipaměti svazku --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Událostech obnovy mezipaměti svazku --></value>
     </caseValues>
-    <gender></gender>
+    <gender><!-- Feminine --></gender>
 </CustomObjectTranslation>

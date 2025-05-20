@@ -3,62 +3,62 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Radnja brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Radnje brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Radnju brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Radnje brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Radnje brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Radnji brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Radnji brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Radnjama brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Radnjom brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Radnjama brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Radnji brojanja FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Radnjama brojanja FMA --></value>
     </caseValues>
-    <gender></gender>
+    <gender><!-- Feminine --></gender>
 </CustomObjectTranslation>

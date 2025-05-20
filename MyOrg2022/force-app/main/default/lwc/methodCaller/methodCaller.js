@@ -10,4 +10,8 @@ export default class MethodCaller extends LightningElement {
     handlePause() {
         this.template.querySelector('c-video-player').pause();
     }
+
+    callparrentmethod(){
+        this.template.querySelector('c-video-player').callparrentmethod();
+    }
 }

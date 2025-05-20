@@ -23,6 +23,12 @@
                 <identifier>home_recentRecordContainer</identifier>
             </componentInstance>
         </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>fileManager</componentName>
+                <identifier>c_fileManager</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>left</name>
         <type>Region</type>
     </flexiPageRegions>

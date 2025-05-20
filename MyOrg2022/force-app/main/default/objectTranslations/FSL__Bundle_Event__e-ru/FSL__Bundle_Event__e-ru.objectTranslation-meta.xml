@@ -3,62 +3,62 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Пакетное событие --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Пакетные события --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Пакетное событие --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Пакетные события --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Пакетного события --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Пакетных событий --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Пакетному событию --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Пакетным событиям --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Пакетным событием --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Пакетными событиями --></value>
     </caseValues>
     <caseValues>
         <caseType>Prepositional</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Пакетном событии --></value>
     </caseValues>
     <caseValues>
         <caseType>Prepositional</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Пакетных событиях --></value>
     </caseValues>
-    <gender></gender>
+    <gender><!-- Neuter --></gender>
 </CustomObjectTranslation>

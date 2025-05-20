@@ -4,49 +4,49 @@
         <article>None</article>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Acțiune contor FMA --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Acțiunea contor FMA --></value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Acțiuni contor FMA --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Acțiunile contor FMA --></value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Acțiunii contor FMA --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Acțiunii contor FMA --></value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Acțiunilor contor FMA --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Acțiunilor contor FMA --></value>
     </caseValues>
-    <gender></gender>
+    <gender><!-- Feminine --></gender>
 </CustomObjectTranslation>

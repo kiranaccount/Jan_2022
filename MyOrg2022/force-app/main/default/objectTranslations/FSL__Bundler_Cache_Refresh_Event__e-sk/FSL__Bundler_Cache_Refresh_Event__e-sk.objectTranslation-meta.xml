@@ -3,62 +3,62 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Udalosť obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Udalosti obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Udalosť obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Udalosti obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Udalosti obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Udalostí obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Udalosti obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Udalostiam obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Udalosťou obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Udalosťami obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Udalosti obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Udalostiach obnovenia vyrovnávacej pamäte nástroja na balenie --></value>
     </caseValues>
-    <gender></gender>
+    <gender><!-- Feminine --></gender>
 </CustomObjectTranslation>

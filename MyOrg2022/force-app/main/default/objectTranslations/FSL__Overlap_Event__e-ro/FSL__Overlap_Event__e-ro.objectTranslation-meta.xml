@@ -4,49 +4,49 @@
         <article>None</article>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Eveniment de suprapunere --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Evenimentul de suprapunere --></value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Evenimente de suprapunere --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Evenimentele de suprapunere --></value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Evenimentului de suprapunere --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Evenimentului de suprapunere --></value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Evenimentelor de suprapunere --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Evenimentelor de suprapunere --></value>
     </caseValues>
-    <gender></gender>
+    <gender><!-- Neuter --></gender>
 </CustomObjectTranslation>

@@ -6,7 +6,7 @@
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Tiêu Chí --></value>
     </caseValues>
     <nameFieldLabel>Loại Tiêu Chí</nameFieldLabel>
 </CustomObjectTranslation>

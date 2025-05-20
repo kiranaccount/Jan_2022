@@ -11,17 +11,17 @@
     <layouts>
         <layout>Lightning Knowledge FAQ Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Article Details --></label>
             <section>Article Details</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Properties --></label>
             <section>Properties</section>
         </sections>
     </layouts>
     <recordTypes>
-        <description></description>
-        <label></label>
+        <description><!-- This can be used for simple question and answer articles --></description>
+        <label><!-- FAQ --></label>
         <name>FAQ</name>
     </recordTypes>
     <startsWith>Consonant</startsWith>

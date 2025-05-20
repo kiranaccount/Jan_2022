@@ -3,33 +3,33 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Ενέργεια πλήθους FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Ενέργειες πλήθους FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Ενέργεια πλήθους FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Ενέργειες πλήθους FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Ενέργειας πλήθους FMA --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Ενεργειών πλήθους FMA --></value>
     </caseValues>
-    <gender></gender>
-    <startsWith></startsWith>
+    <gender><!-- Feminine --></gender>
+    <startsWith><!-- Consonant --></startsWith>
 </CustomObjectTranslation>

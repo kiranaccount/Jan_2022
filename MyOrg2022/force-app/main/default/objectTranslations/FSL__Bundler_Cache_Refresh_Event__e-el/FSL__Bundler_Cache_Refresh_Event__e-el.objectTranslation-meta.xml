@@ -3,33 +3,33 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Συμβάν ανανέωσης cache εργαλείου δημιουργία πακέτων --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Συμβάντα ανανέωσης cache εργαλείου δημιουργία πακέτων --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Συμβάν ανανέωσης cache εργαλείου δημιουργία πακέτων --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Συμβάντα ανανέωσης cache εργαλείου δημιουργία πακέτων --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Συμβάντος ανανέωσης cache εργαλείου δημιουργία πακέτων --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Συμβάντων ανανέωσης cache εργαλείου δημιουργία πακέτων --></value>
     </caseValues>
-    <gender></gender>
-    <startsWith></startsWith>
+    <gender><!-- Neuter --></gender>
+    <startsWith><!-- Consonant --></startsWith>
 </CustomObjectTranslation>

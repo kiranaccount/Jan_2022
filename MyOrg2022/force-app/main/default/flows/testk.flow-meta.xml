@@ -22,9 +22,47 @@
         </value>
     </processMetadataValues>
     <processType>Flow</processType>
+    <screens>
+        <name>CallingLWC</name>
+        <label>CallingLWC</label>
+        <locationX>522</locationX>
+        <locationY>209</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <fields>
+            <name>LwcInComp</name>
+            <extensionName>c:anithaTestLwc</extensionName>
+            <fieldType>ComponentInstance</fieldType>
+            <inputParameters>
+                <name>recordId</name>
+                <value>
+                    <elementReference>CurrentRecordID</elementReference>
+                </value>
+            </inputParameters>
+            <inputsOnNextNavToAssocScrn>UseStoredValues</inputsOnNextNavToAssocScrn>
+            <isRequired>true</isRequired>
+            <storeOutputAutomatically>true</storeOutputAutomatically>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
     <start>
-        <locationX>50</locationX>
-        <locationY>150</locationY>
+        <locationX>401</locationX>
+        <locationY>48</locationY>
+        <connector>
+            <targetReference>CallingLWC</targetReference>
+        </connector>
     </start>
-    <status>InvalidDraft</status>
+    <status>Draft</status>
+    <variables>
+        <name>CurrentRecordID</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>true</isOutput>
+        <value>
+            <elementReference>$User.Id</elementReference>
+        </value>
+    </variables>
 </Flow>

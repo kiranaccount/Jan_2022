@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Database Download File --></label>
     <name>Database_Download_File__c</name>
     <picklistValues>
         <masterLabel>Canadian</masterLabel>
-        <translation></translation>
+        <translation><!-- Canadian --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Default Update</masterLabel>
-        <translation></translation>
+        <translation><!-- Default Update --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Domestic</masterLabel>
-        <translation></translation>
+        <translation><!-- Domestic --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>International</masterLabel>
-        <translation></translation>
+        <translation><!-- International --></translation>
     </picklistValues>
 </CustomFieldTranslation>

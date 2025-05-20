@@ -3,92 +3,92 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodek osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodki osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Dogodki osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodek osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodke osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Dogodke osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodka osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodkov osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Dogodkov osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodku osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodkom osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Dogodkom osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodkom osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodki osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Dogodki osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodku osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Dogodkih osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Dogodkih osveževanja predpomnilnika orodja za ustvarjanje paketov --></value>
     </caseValues>
-    <gender></gender>
+    <gender><!-- Masculine --></gender>
 </CustomObjectTranslation>

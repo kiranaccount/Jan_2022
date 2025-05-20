@@ -3,32 +3,32 @@
     <caseValues>
         <article>None</article>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Overlappende begivenhed --></value>
     </caseValues>
     <caseValues>
         <article>Indefinite</article>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Overlappende begivenhed --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Overlappende begivenhed --></value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Overlappende begivenheder --></value>
     </caseValues>
     <caseValues>
         <article>Indefinite</article>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Overlappende begivenheder --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Overlappende begivenheder --></value>
     </caseValues>
-    <gender></gender>
+    <gender><!-- Feminine --></gender>
 </CustomObjectTranslation>

@@ -6,7 +6,7 @@
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Hoạt Động FSL --></value>
     </caseValues>
     <nameFieldLabel>Tên Hoạt Động FSL</nameFieldLabel>
 </CustomObjectTranslation>

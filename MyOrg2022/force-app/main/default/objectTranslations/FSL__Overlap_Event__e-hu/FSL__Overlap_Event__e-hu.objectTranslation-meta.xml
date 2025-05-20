@@ -4,613 +4,613 @@
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési esemény --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési események --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményem --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeim --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseménye --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményei --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményt --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeket --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemet --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimet --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményét --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeit --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseménynek --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeknek --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemnek --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimnek --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményének --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeinek --></value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményben --></value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekben --></value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemben --></value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimben --></value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményében --></value>
     </caseValues>
     <caseValues>
         <caseType>Inessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeiben --></value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményből --></value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekből --></value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemből --></value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimből --></value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményéből --></value>
     </caseValues>
     <caseValues>
         <caseType>Elative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeiből --></value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseménybe --></value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekbe --></value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményembe --></value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimbe --></value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményébe --></value>
     </caseValues>
     <caseValues>
         <caseType>Illative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeibe --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseménytől --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményektől --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemtől --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimtől --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményétől --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeitől --></value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményhez --></value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekhez --></value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemhez --></value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimhez --></value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményéhez --></value>
     </caseValues>
     <caseValues>
         <caseType>Allative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeihez --></value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseménnyé --></value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekké --></value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemmé --></value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimmé --></value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményévé --></value>
     </caseValues>
     <caseValues>
         <caseType>Translative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeivé --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseménnyel --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekkel --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemmel --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimmel --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményével --></value>
     </caseValues>
     <caseValues>
         <caseType>Instrumental</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeivel --></value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményre --></value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekre --></value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemre --></value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimre --></value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményére --></value>
     </caseValues>
     <caseValues>
         <caseType>Sublative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeire --></value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményen --></value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeken --></value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemen --></value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimen --></value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményén --></value>
     </caseValues>
     <caseValues>
         <caseType>Superessive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményein --></value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményről --></value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekről --></value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemről --></value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimről --></value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményéről --></value>
     </caseValues>
     <caseValues>
         <caseType>Delative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeiről --></value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményért --></value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekért --></value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemért --></value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimért --></value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményéért --></value>
     </caseValues>
     <caseValues>
         <caseType>Causalfinal</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeiért --></value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményként --></value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekként --></value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemként --></value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimként --></value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeként --></value>
     </caseValues>
     <caseValues>
         <caseType>Essiveformal</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeiként --></value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményig --></value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményekig --></value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményemig --></value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimig --></value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményéig --></value>
     </caseValues>
     <caseValues>
         <caseType>Termanative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeiig --></value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményenként --></value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményenként --></value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimenként --></value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeimenként --></value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeinként --></value>
     </caseValues>
     <caseValues>
         <caseType>Distributive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Átfedési eseményeinként --></value>
     </caseValues>
-    <startsWith></startsWith>
+    <startsWith><!-- Vowel --></startsWith>
 </CustomObjectTranslation>

@@ -3,42 +3,42 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Ereignis zur Bundler-Cache-Aktualisierung --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Ereignisse zur Bundler-Cache-Aktualisierung --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Ereignis zur Bundler-Cache-Aktualisierung --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Ereignisse zur Bundler-Cache-Aktualisierung --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Ereignisses zur Bundler-Cache-Aktualisierung --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Ereignisse zur Bundler-Cache-Aktualisierung --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Ereignis zur Bundler-Cache-Aktualisierung --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Ereignissen zur Bundler-Cache-Aktualisierung --></value>
     </caseValues>
-    <gender></gender>
+    <gender><!-- Neuter --></gender>
 </CustomObjectTranslation>

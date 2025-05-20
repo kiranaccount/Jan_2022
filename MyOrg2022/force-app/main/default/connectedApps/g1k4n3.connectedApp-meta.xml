@@ -23,7 +23,7 @@
     <oauthConfig>
         <callbackUrl>https://testapp-test123.herokuapp.com/callback</callbackUrl>
         <consumerKey>3MVG9pe2TCoA1Pf4WrcSgP9MN6e0pYatsWtFmEqXmY7rh5aMpacKvMbvd8RNi3EyQee4sWqO8pMDYTeYFcomR</consumerKey>
-        <isAdminApproved>true</isAdminApproved>
+        <isAdminApproved>false</isAdminApproved>
         <isConsumerSecretOptional>false</isConsumerSecretOptional>
         <isIntrospectAllTokens>false</isIntrospectAllTokens>
         <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
@@ -41,8 +41,7 @@
         <scopes>Pardot</scopes>
     </oauthConfig>
     <oauthPolicy>
-        <ipRelaxation>ENFORCE</ipRelaxation>
+        <ipRelaxation>BYPASS</ipRelaxation>
         <refreshTokenPolicy>infinite</refreshTokenPolicy>
     </oauthPolicy>
-    <profileName>System Administrator</profileName>
 </ConnectedApp>

@@ -6,7 +6,7 @@
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Khu Vực Trong Cài Đặt Người Dùng --></value>
     </caseValues>
     <nameFieldLabel>Tên lãnh thổ cài đặt người dùng</nameFieldLabel>
 </CustomObjectTranslation>

@@ -29,4 +29,9 @@ export default class VideoPlayer extends LightningElement {
     get videoType() {
         return 'video/' + this.videoUrl.split('.').pop();
     }
+
+    @api
+     newmethod(){
+        alert('calling parent methods inchild');
+     }
 }

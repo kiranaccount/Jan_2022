@@ -11,20 +11,20 @@
     <layouts>
         <layout>Case (HowWeRoll) Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- HowWeRoll Service Details --></label>
             <section>HowWeRoll Service Details</section>
         </sections>
     </layouts>
     <quickActions>
-        <label></label>
+        <label><!-- LogACall --></label>
         <name>LogACall</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label><!-- NewChildCase --></label>
         <name>NewChildCase</name>
     </quickActions>
     <startsWith>Consonant</startsWith>

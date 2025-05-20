@@ -17,6 +17,14 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>DoesDeleteEmptyBundles</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>EmptyBundleStatus</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>AddToBundleStatuses</field>
             </layoutItems>
         </layoutColumns>
@@ -106,6 +114,8 @@
     <miniLayout>
         <fields>Name</fields>
         <fields>DoesAddTravelTime</fields>
+        <fields>DoesDeleteEmptyBundles</fields>
+        <fields>EmptyBundleStatus</fields>
     </miniLayout>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>

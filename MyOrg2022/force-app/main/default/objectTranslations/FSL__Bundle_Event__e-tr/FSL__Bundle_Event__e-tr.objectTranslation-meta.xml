@@ -4,216 +4,216 @@
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olayı --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olayları --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olayım --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarım --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olayınız --></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarınız --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olayını --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarını --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olayımı --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarımı --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olayınızı --></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarınızı --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olayının --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarının --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olayımın --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarımın --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olayınızın --></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarınızın --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olayına --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarına --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olayıma --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarıma --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olayınıza --></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarınıza --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olayından --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarından --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olayımdan --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarımdan --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olayınızdan --></value>
     </caseValues>
     <caseValues>
         <caseType>Ablative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarınızdan --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olayında --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarında --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olayımda --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>true</plural>
         <possessive>First</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarımda --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olayınızda --></value>
     </caseValues>
     <caseValues>
         <caseType>Locative</caseType>
         <plural>true</plural>
         <possessive>Second</possessive>
-        <value></value>
+        <value><!-- Paket Olaylarınızda --></value>
     </caseValues>
 </CustomObjectTranslation>

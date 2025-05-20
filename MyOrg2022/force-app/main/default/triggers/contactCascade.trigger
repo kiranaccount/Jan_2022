@@ -22,7 +22,7 @@ trigger contactCascade on contact(before insert,before update, before delete,
         }
         when AFTER_INSERT{
             system.debug('AFTER_INSERT SIZE new --'+Trigger.New.Size());    
-             system.debug('AFTER_INSERT SIZE old--'+Trigger.old.Size());
+            system.debug('AFTER_INSERT SIZE old--'+Trigger.old.Size());
             for(contact c: trigger.new){
                 if(c.accountId != null){
                     contatMap.put(c.accountId,c);
@@ -44,7 +44,7 @@ trigger contactCascade on contact(before insert,before update, before delete,
             // contactHandler.globalmethod(trigger.new, trigger.old, trigger.oldMap, trigger.newMap);
         }
         when AFTER_DELETE{
-           // system.debug('AFTER_DELETE SIZE NEW--'+Trigger.old.Size());
+            // system.debug('AFTER_DELETE SIZE NEW--'+Trigger.old.Size());
             system.debug('AFTER_DELETE SIZE OLD--'+Trigger.old.Size());
             for(contact c: trigger.old){             
                 if(c.accountId != trigger.oldmap.get(c.id).accountId){
@@ -55,7 +55,7 @@ trigger contactCascade on contact(before insert,before update, before delete,
         }
         when AFTER_UNDELETE{
             system.debug('AFTER_UNDELETE SIZE NEW--'+Trigger.New.Size());
-               system.debug('AFTER_UNDELETE SIZE OLD--'+Trigger.New.Size());
+            system.debug('AFTER_UNDELETE SIZE OLD--'+Trigger.New.Size());
             for(contact c: trigger.new){
                 if(c.accountId != null){
                     contatMap.put(c.accountId,c);

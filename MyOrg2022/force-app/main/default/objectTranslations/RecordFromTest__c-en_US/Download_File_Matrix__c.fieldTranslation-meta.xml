@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Download File Matrix --></label>
     <name>Download_File_Matrix__c</name>
     <picklistValues>
         <masterLabel>By Country</masterLabel>
-        <translation></translation>
+        <translation><!-- By Country --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>By DMA</masterLabel>
-        <translation></translation>
+        <translation><!-- By DMA --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>By Postal Code</masterLabel>
-        <translation></translation>
+        <translation><!-- By Postal Code --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>By Province</masterLabel>
-        <translation></translation>
+        <translation><!-- By Province --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>By State</masterLabel>
-        <translation></translation>
+        <translation><!-- By State --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>By Zip Code</masterLabel>
-        <translation></translation>
+        <translation><!-- By Zip Code --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Download File Default values</masterLabel>
-        <translation></translation>
+        <translation><!-- Download File Default values --></translation>
     </picklistValues>
 </CustomFieldTranslation>

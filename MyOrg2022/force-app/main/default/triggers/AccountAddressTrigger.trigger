@@ -19,13 +19,13 @@ trigger AccountAddressTrigger on Account (before delete, before insert, before u
                                                   
                                               }
                                               
-                                          // AggregateResult[] groupedResults=[select Accountid,count(id)quan from contact  where Accountid in : accids group by Accountid];      
+                                              // AggregateResult[] groupedResults=[select Accountid,count(id)quan from contact  where Accountid in : accids group by Accountid];      
                                               
-                                           
-update ids.values();
-update acclist;
-
-/* for(Account a : Trigger.new){
+                                              
+                                              update ids.values();
+                                              update acclist;
+                                              
+                                              /* for(Account a : Trigger.new){
 ids.put(a.id,a);
 If (a.Match_Billing_Address__c == true) {
 a.ShippingPostalCode = a.BillingPostalCode;
@@ -43,4 +43,4 @@ ac.add(a1);
 //update ac;
 
 */
-}
+                                          }

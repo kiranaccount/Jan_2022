@@ -1,5 +1,4 @@
-trigger optytrigger1 on Opportunity (after update) {
-    
+trigger optytrigger1 on Opportunity (after update) {    
     list<opportunity> ot = new list<opportunity>();
     list<opportunity> newoptyValues = [Select id,name,StageName from opportunity where id IN:Trigger.newMap.keyset()];
     map<id,opportunity> oldvaues = trigger.oldmap;

@@ -107,6 +107,7 @@
     </relatedLists>
     <relatedLists>
         <fields>Name</fields>
+        <fields>Product2</fields>
         <fields>QuantityRequested</fields>
         <fields>QuantityUnitOfMeasure</fields>
         <fields>NeedByDate</fields>

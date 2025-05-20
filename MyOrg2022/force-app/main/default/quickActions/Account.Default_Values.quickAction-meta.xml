@@ -4,6 +4,10 @@
         <field>Name</field>
         <formula>Account.Name</formula>
     </fieldOverrides>
+    <fieldOverrides>
+        <field>Phone</field>
+        <formula>Account.Phone</formula>
+    </fieldOverrides>
     <label>Default Values</label>
     <optionsCreateFeedItem>true</optionsCreateFeedItem>
     <quickActionLayout>

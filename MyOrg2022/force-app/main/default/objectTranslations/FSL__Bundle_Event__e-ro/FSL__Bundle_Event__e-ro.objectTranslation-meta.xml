@@ -4,49 +4,49 @@
         <article>None</article>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Eveniment pachet --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Evenimentul pachet --></value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Evenimente pachet --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Evenimentele pachet --></value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Evenimentului pachet --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Evenimentului pachet --></value>
     </caseValues>
     <caseValues>
         <article>None</article>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Evenimentelor pachet --></value>
     </caseValues>
     <caseValues>
         <article>Definite</article>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value></value>
+        <value><!-- Evenimentelor pachet --></value>
     </caseValues>
-    <gender></gender>
+    <gender><!-- Neuter --></gender>
 </CustomObjectTranslation>
